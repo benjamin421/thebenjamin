@@ -4,9 +4,11 @@
 
 theme = "congo"
 
-# baseURL = "https://your_domain.com/"
+# baseURL = "https://thebenjam.in/"
 languageCode = "en"
 defaultContentLanguage = "en"
+
+googleAnalytics = "UA-123249489-5"
 
 title = "Benjamin Anderson"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -19,7 +21,7 @@ summaryLength = 0
 [author]
   name = "Benjamin Anderson"
   image = "img/avatar.png"
-  bio = "A little bit about you"
+  bio = "Disciple of Experience"
   links = [
      { email = "mailto:me@benjaminbanderson.com" },
   #   { link = "https://link-to-some-website.com/" },
