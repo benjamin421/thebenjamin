@@ -8,7 +8,7 @@
 colorScheme = "mycolors"
  darkMode = "true"
 # darkToggle = false
- logo = "img/avatar.png"
+# logo = "assets/img/logo.jpg"
  description = "Disciple of Experience"
 # mainSections = ["section1", "section2"]
 # robots = ""
