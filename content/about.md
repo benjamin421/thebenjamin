@@ -11,7 +11,7 @@ showReadingTime: false
 showEdit: false
 ---
 {{< lead >}}
-Last updated — August 2020
+Last updated — August 2021
 {{< /lead >}}
 
 I am a life long learner and explorer of the human experience. I've done many things in my pursuit of novelty, the constant in this pursuit being my direction, which is always forward.
