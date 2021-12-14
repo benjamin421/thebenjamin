@@ -4,7 +4,6 @@ date: 2021-12-10
 draft: false
 description: "Some stuff I've built"
 slug: "about"
-tags: ["users", "sample"]
 showDate: false
 showAuthor: false
 showReadingTime: false
