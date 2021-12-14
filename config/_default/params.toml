@@ -8,8 +8,8 @@
 colorScheme = "mycolors"
  darkMode = "true"
 # darkToggle = false
-# logo = "assets/img/logo.jpg"
-# description = "My awesome website"
+ logo = "img/avatar.png"
+ description = "Disciple of Experience"
 # mainSections = ["section1", "section2"]
 # robots = ""
 
