@@ -16,6 +16,8 @@ title = "Benjamin Anderson"
 enableEmoji = true
 enableRobotsTXT = true
 
+images = ['img/avatar.png']
+
 summaryLength = 0
 
 [author]
