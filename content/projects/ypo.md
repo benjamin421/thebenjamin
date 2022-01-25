@@ -1,9 +1,9 @@
 ---
-title: "YPO"
+title: "VR Experience for YPO"
 date: 2020-09-16
 draft: false
-description: "The global leadership community of extraordinary chief executives."
-slug: "wrio"
+description: "A VR experience built for a cohort of chief executives in YPO."
+slug: "vr-experience-ypo"
 skills: ["Software Development", "Consulting"]
 showDate: false
 showAuthor: false
@@ -14,11 +14,13 @@ showPagination: true
 ---
 
 {{< lead >}}
-The global leadership community of extraordinary chief executives.
+A VR experience built for a cohort of chief executives in YPO.
 {{< /lead >}}
 
 As part of a consulting arrrangement through [Articulate Ventures](https://articulate.ventures/), I developed a custom VR experience for a group of executives to tour as part of a retreat with this organization. 
 
-{{< button href="https://www.ypo.org/" target="_blank" >}}
-View Website
+The group who purchased the experience was [YPO](https://www.ypo.org/).
+
+{{< button href="https://articulate.ventures/case-study/ypo-stl-vr-experience" target="_blank" >}}
+Read Full Case Study
 {{< /button >}}
