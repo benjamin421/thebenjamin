@@ -1,12 +1,12 @@
 ---
-title: "Benjamin Anderson Home Page"
+title: "Benjamin Anderson"
 description: "Desciple of Experience"
 ---
 
 
 
 {{< lead >}}
-A disciple of experience, seeking challenges and novelty. 
+A disciple of experience, exploring complex systems. 
 {{< /lead >}}
 
 Hey there, I'm Ben. I spend most of my time these days consulting, producing a [podcast](https://www.vancecrowe.com/podcast), [reading]({{< ref "books" >}}) to come up with new ideas, and writing about them [here](https://thebenjamin.substack.com/). 
