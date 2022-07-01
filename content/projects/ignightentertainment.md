@@ -17,7 +17,7 @@ showPagination: true
 A marketplace that connects customers and planners to DJs and other event talent.
 {{< /lead >}}
 
-I have been consulting for Ignight Entertainment on a weekly hour long call to help guide their founder through the development of their platform. The objective or developing a custom application has been to eliminate as many manual workflows as possible through automation and vertically integrating the software. 
+I have been consulting for Ignight Entertainment on a weekly hour long call to help guide their founder through the development of their platform. The objective of developing a custom application has been to eliminate as many manual workflows as possible through automation and vertically integrating the software. 
 
 On these calls, we have worked and continue to work through the various aspects of building a full-stack platform from scratch. I have made sugestions about what to do in house, what to outsource and what to save for down the road. 
 
