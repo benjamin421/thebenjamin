@@ -1,9 +1,9 @@
 ---
-title: "Sales Retreat for Saint Louis Bank"
+title: "Sales Retreat for SLB"
 date: 2022-05-15
 draft: false
 description: "A community financial institution that wanted their lending team reinvigorated"
-slug: "sales-retreat-saint-louis-bank"
+slug: "sales-retreat-slb"
 skills: ["Consulting"]
 showDate: false
 showAuthor: false
