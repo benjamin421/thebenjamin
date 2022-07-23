@@ -4,7 +4,7 @@ date: 2022-07-23
 draft: false
 description: "What is the role of redundancy in gene regulatory networks, and how does it change over time and between species?"
 slug: "causal-emergence-biological-networks"
-subjects: ["Emergence", "Network Theory", "Aging"]
+subjects: ["Causal Emergence", "Network Theory", "Aging"]
 showDate: false
 showHeadingAnchors: true
 showAuthor: true

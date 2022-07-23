@@ -4,7 +4,7 @@ date: 2022-07-23
 draft: false
 description: "Aggregating corrolary research to show the links of bioelectricity to know facts about aging."
 slug: "bioelectricity-causal-gactor-aging"
-subjects: ["Bioelectricity", "Aging"]
+subjects: ["Bioelectricity", "Aging", "Epigenetics"]
 showDate: false
 showHeadingAnchors: true
 showAuthor: true
