@@ -21,6 +21,11 @@
   weight = 20
 
 [[main]]
+  name = "Research"
+  pageRef = "research"
+  weight = 25
+
+[[main]]
   name = "Writing"
   url = "https://thebenjamin.substack.com/"
   weight = 30

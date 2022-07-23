@@ -23,7 +23,7 @@ I've went on to build a series of other [marketplace]({{< ref "marketplaces" >}}
 
 I went on a novelty search, taking on new types of [consulting](https://www.articulate.ventures/) work, and getting involved with a [podcast](https://www.vancecrowe.com/podcast) as the executive producer. This latter opportunity put me in contact with many interesting people doing work on the edge of what is known, renewing my interest in research. It also led directly to what I do now, which in short, is helping people come to terms with **time** through something we call a [Legacy Interview](https://legacyinterviews.com/).
 
-In addition to these interviews, I am back to exploring the mechanisms underlying aging. I do this now through independent research, intersecting my knowledgebase in biology and software to come to novel conclusions about where order and causality reside in chaotic and complex systems. 
+In addition to these interviews, I am back to exploring the mechanisms underlying aging. I do this now through independent [research]({{< ref "research" >}}), intersecting my knowledgebase in biology and software to come to novel conclusions about where order and causality reside in chaotic and complex systems. 
 
 It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com) if you have something for me to explore. 
 
