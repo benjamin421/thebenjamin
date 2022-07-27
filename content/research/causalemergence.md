@@ -175,7 +175,7 @@ The challenge in doing this to compare results to an analysis at the GRN level i
     
 - Over time, as this index would grow, it could be used as a new tool for discovering novel points with which to anchor bioelctric networks to downstream transcriptional effects. 
 
-- **Currently diving into [BETSE](https://github.com/betsee/betse) to accomplish this.**
+- **Currently diving into [BETSE](https://github.com/benjamin421/betse) to accomplish this.**
 
 ---
 
