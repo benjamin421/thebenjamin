@@ -65,7 +65,9 @@ _Human — Aging, Iteration 7_
 ---
 # Results from GenAge Dataset
 
-## Humans — Aging
+## Humans — 
+
+## Aging
 
 **Initial Effectiveness: 0.335729**
 
@@ -82,7 +84,7 @@ _Human — Aging, Iteration 7_
 
 **Final Effectiveness:  0.405523737036814**
 
-## Humans — Senescence
+## Senescence
 
 **Initial Effectiveness: 0.486386**
 
@@ -103,7 +105,9 @@ If an intervention works for a macronode, with 2 different internal causal pathw
 cc: https://www.tandfonline.com/doi/full/10.1080/19420889.2020.1802914
 
 ---
-## Mus Musculus (Mouse)
+## Mus Musculus (Mouse) — 
+
+## Aging
 
 **Initial Effectiveness: 0.434615**
 
@@ -116,9 +120,23 @@ cc: https://www.tandfonline.com/doi/full/10.1080/19420889.2020.1802914
 
 **Final Effectiveness: 0.48975792415**
 
+## Physiology
+
+**Initial Effectiveness: 0.458635**
+
+| Run                                | Nodes               | Edges               |Effective Information               | Effectiveness Gain               | 
+| ---------------------------------------| ----------------------| ----------------------|----------------------| ----------------------|
+| Original   | 494   | 9025 | 4.104038136973786 | N/A |
+| 1   | 322   | 6508 | 4.240497089574829 | 0.015250 |
+| 2   | 313   | 6161 | 4.243813 | 0.015620 |
+
+**Final Effectiveness: 0.511918**
+
 ---
 
-## Drosophila (Fruit Fly)
+## Drosophila (Fruit Fly) — 
+
+## Aging
 
 **Initial Effectiveness: 0.546897**
 
@@ -130,6 +148,18 @@ cc: https://www.tandfonline.com/doi/full/10.1080/19420889.2020.1802914
 | 3   | 83   | 767 | 3.139050 | 0.012392 |
 
 **Final Effectiveness: 0.62002380607**
+
+## Stem Cell Genes
+
+**Initial Effectiveness: 0.511734**
+
+| Run                                | Nodes               | Edges               |Effective Information               | Effectiveness Gain               | 
+| ---------------------------------------| ----------------------| ----------------------|----------------------| ----------------------|
+| Original   | 285   | 2533 | 4.173097660494712 | N/A |
+| 1   | 259   | 4021 | 4.202267897429325 | 0.003577 |
+| 2   | 258   | 3989 | 4.202562037958708 | 0.003613 |
+
+**Final Effectiveness: 0.524584**
 
 ---
 
@@ -206,6 +236,11 @@ Senescence Genes for Humans: https://genomics.senescence.info/cells/
 In academic work, please cite this essay as:
 
 _Anderson, Benjamin, “Causal Emergence in Biological Networks”, TheBenjam.in (2022-07-23), available at https://www.thebenjam.in/research/._
+
+---
+
+### Changelog
+_August 22, 2022_ — Added physiology data for mice and stem cell genes data for drosophilia. 
 
 [^1]: Varley Thomas F. and Hoel Erik 2022 Emergence as the conversion of information: a unifying theory _Phil. Trans. R. Soc. A._ 380: 20210150.20210150
 [^2]: Brennan Klein, Erik Hoel, Anshuman Swain, Ross Griebenow, Michael Levin, Evolution and emergence: higher order information structure in protein interactomes across the tree of life, Integrative Biology, Volume 13, Issue 12, December 2021, Pages 283–294, https://doi.org/10.1093/intbio/zyab020
