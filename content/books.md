@@ -18,7 +18,7 @@ The below list is a culmination of the books I read over the course of 2020, plu
 
 I sometimes write more comprehensive summaries of takaways on [my newsletter](https://thebenjamin.substack.com/).
 
-You can check out more recent reads on [Goodreads](https://www.goodreads.com/user/show/101023371-benjamin-anderson).
+You can check out my more recent reads on [Goodreads](https://www.goodreads.com/user/show/101023371-benjamin-anderson).
 
 ## 2020
 

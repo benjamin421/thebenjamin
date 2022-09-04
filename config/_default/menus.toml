@@ -16,11 +16,6 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
-  weight = 20
-
-[[main]]
   name = "Research"
   pageRef = "research"
   weight = 25
@@ -29,6 +24,12 @@
   name = "Writing"
   url = "https://thebenjamin.substack.com/"
   weight = 30
+
+  [[main]]
+  name = "Work with me"
+  pageRef = "workwithme"
+  weight = 35
+
 
 
 # -- Footer Menu --
