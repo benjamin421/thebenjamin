@@ -16,7 +16,7 @@ showPagination: true
 ---
 
 {{< lead >}}
-Last updated — July 2022 | What is the role of redundancy in gene regulatory networks, and how does it change over time and between species?
+Last updated — August 2022 | What is the role of redundancy in gene regulatory networks, and how does it change over time and between species?
 {{< /lead >}}
 
 ## Overview
