@@ -24,7 +24,7 @@ I have been captured by ideas in aging and longevity reseach for as long as I ca
 
 Over time, I've come to a conclusion that I find to be unique based on my conversations with others in this field. 
 
-I am an unaccredited dropout, focusing on the biology of aging in my spare time. I do however feel a certain sense of authority in putting this forward given that I have been fortunate enough to pressure test it through conversations in person with the top aging researchers in the field at the inaugural [GRC Systems Aging Conference](https://www.forbes.com/sites/alexzhavoronkov/2022/06/29/a-week-at-the-most-secretive-conference-on-aging/?sh=3ad11077201d) in May, 2022. 
+I am a biomedical engineering dropout accredited only by discipline and experience, focusing on the biology of aging in my spare time. I do however feel a certain sense of authority in putting this forward given that I have been fortunate enough to pressure test it through conversations in person with the top aging researchers in the field at the inaugural [GRC Systems Aging Conference](https://www.forbes.com/sites/alexzhavoronkov/2022/06/29/a-week-at-the-most-secretive-conference-on-aging/?sh=3ad11077201d) in May, 2022. 
 
 When bringing this concept up, the top comments I recieved were that is was viable and an unexplored direction, however given the fact that it was relatively unexplored, conversations could only go so far. It is for this reason that I am taking the next step to pressure test the idea here. 
 
