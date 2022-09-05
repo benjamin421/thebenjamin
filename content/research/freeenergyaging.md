@@ -115,7 +115,7 @@ I highlight more examples like this in my review of [Bioelectricity as an upstre
 - Learning non equilibrium approaching thermodynamics
 - Learning non linear control theory
 
-I am putting this out as a calling card, not an etching in stone. Please, if you have input, feedback—critical or otherwise, or are interested in collaborating, [send me a note](mailto:me@benjaminbanderson.com). 
+*I am putting this out as a calling card, not an etching in stone. Please, if you have input, feedback—critical or otherwise, or are interested in collaborating, [send me a note](mailto:me@benjaminbanderson.com).*
 
 It's **time** to build. 
 
