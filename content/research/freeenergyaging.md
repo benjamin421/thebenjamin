@@ -92,7 +92,7 @@ I wanted to share these ideas as soon as I had them clearly formulated enough th
 
 In biology, we look for policies to control interactions. 
 
-The mode I outline above is the policy, and here are some potential control mechanisms to bring about our desired effect: 
+The model I outline above is the policy, and here are some potential control mechanisms to bring about our desired effect: 
 - Up/down regulation of genes
 - Optogenetic stimulation of neurons
 - Transcranial magnetic simulation
