@@ -65,7 +65,7 @@ For example, if a harmful intervention enters the network that disrups pathway A
 
 ![Image of redundant pathway explanation](/img/redundancy.png)
 
-Over time, examples like the one pictured above become less and less the case. Our biological networks decrease in complexity[^7], and therefore their redundancy throughout time. With this decrease in redundancy comes too a decrease in resilience to potential stressors and harmful interventions. 
+Over time, examples like the one pictured above become less and less the case. Our biological networks decrease in complexity[^7], and futhermore their redundancy throughout time. With this decrease in redundancy comes too a decrease in resilience to potential stressors and harmful interventions. 
 
 ![Image of decrease in redundancy over time](/img/katephoto.png)
 _Photo courtesy of [Kate Crosby](https://scholar.google.com/scholar?q=author:%22Crosby%20Kate%22) after I explained these ideas._
@@ -79,7 +79,7 @@ Finally, I can return to why all this is relevant to the free energy principle.
 ### The Main Idea
 I believe that by using the free energy principle to denote the model structure of the aging process, we can gain a new level of understanding as to why these changes are taking place in our bodies and bringing about less resilient phenotypes at large.
 
-That new level of understandning is:
+That new level of understanding is:
 
 **Loss of epigenetic markers are the means by which our body adheres to the free energy principle: decreasing transition uncertainty by adapting them towards a more energy minimizing state of function.**
 
