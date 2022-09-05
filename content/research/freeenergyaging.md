@@ -34,9 +34,9 @@ When bringing this concept up, the top comments I recieved were that is was viab
 
 There is an idea from neuroscience referred to as the free energy principle. What this principle says is that systems that are evolving through time, evolve and adapt in ways that minimize the amount of energy required to do the same things over and over again. 
 
-This is sort of similar to the idea of Hebbian Learning which is commonly remembered by the saying: 'neurons that fire, together wire together.'
+This is sort of similar to the idea of Hebbian Learning which is commonly remembered by the saying: 'neurons that fire together, wire together.'
 
-As these systems adapt to minimize energy allocation used in their most common processes, this comes at an alternate cost. That cost is in the resilience to other stressors that system might have to deal with. 
+As these systems adapt to minimize energy allocated for their most common processes, this comes at an alternate cost. That cost is in the resilience to other stressors that system might have to deal with. 
 
 I was introduced to the idea of the free energy principle when I read a paper called *The math is not the territory*[^1]. I had come across a personality on Twitter named Mel Andrews, aka [@bayesianboy](https://twitter.com/bayesianboy), and at the time, it was their pinned tweet. I was captured by the title, and so added it to my bookmarks to read in the near future.
 
@@ -49,7 +49,7 @@ In Andrews' paper, they talk about the free energy principle's background in neu
 By the time I finished reading this paper, I had become convinced that this idea explained something that I had been circling the drain on for a long time. 
 
 ### Background
-Before I read this paper, I had been doing program analyses on gene regulatory networks and protein interactomes to find out their causal emergence properties.[^2] Causal Emergence is an idea from Eric Hoel suggesting that macro scale representations of systems can reduce the noise in causal relationships, thereby increasing the causal determinism of the system in it's new macro representation.[^3]
+Before I read this paper, I had been doing program analyses on gene regulatory networks and protein interactomes to find out their causal emergence properties.[^2] Causal Emergence is an idea from [Eric Hoel](https://twitter.com/erikphoel) suggesting that macro scale representations of systems can reduce the noise in causal relationships, thereby increasing the causal determinism of the system in it's new macro representation.[^3]
 
 Macro scale networks contain more effective information than a microscale network. Effective information is the assessment of the causal power of a cause, *c* to produce an effect, *e* for all possible transitions between all possible causes and effects. 
 
@@ -100,7 +100,7 @@ The mode I outline above is the policy, and here are some potential control mech
 - ***Modulation on endogenous bioelectric networks**
 - Genetic knock-out/knock-in
 
-I was excited by one area of exploration from Dr. Michael Levin that I came across in a paper where he highlighted different anchors between electrochemical gradients and downstream transcriptional processes. 
+I was excited by one area of exploration from [Michael Levin](https://twitter.com/drmichaellevin) that I came across in a paper where he highlighted different anchors between electrochemical gradients and downstream transcriptional processes. 
 
 The path forward I am currently exploring are places where small molecule signals are shown to be causally upstream of histone deacetylation. 
 
