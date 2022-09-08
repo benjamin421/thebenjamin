@@ -102,7 +102,7 @@ The model I outline above is the policy, and here are some potential control mec
 
 I have became excited by one potential control mechanism in particular. In the [Allen Discover Center](https://allencenter.tufts.edu/) at Tufts University, [Michael Levin](https://twitter.com/drmichaellevin) and his lab are mapping causal relationships between electrochemical gradients and transcriptional processes.
 
-The electrochemical gradient consists of the free energy potential difference across the membrane in 2 areas:
+The electrochemical gradient consists of the free energy potential difference across the cell membrane in 2 places:
 1) Small molecule concentrations (chemical potential differences)
 2) Moving charged molecules (electrical potential differences)
 
