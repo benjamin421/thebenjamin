@@ -100,13 +100,19 @@ The model I outline above is the policy, and here are some potential control mec
 - ***Modulation on endogenous bioelectric networks**
 - Genetic knock-out/knock-in
 
-I was excited by one area of exploration from [Michael Levin](https://twitter.com/drmichaellevin) that I came across in a paper where he highlighted different anchors between electrochemical gradients and downstream transcriptional processes. 
+I have became excited by one potential control mechanism in particular. In the [Allen Discover Center](https://allencenter.tufts.edu/) at Tufts University, [Michael Levin](https://twitter.com/drmichaellevin) and his lab are mapping causal relationships between electrochemical gradients and transcriptional processes.
 
-The path forward I am currently exploring are places where small molecule signals are shown to be causally upstream of histone deacetylation. 
+The electrochemical gradient consists of the free energy potential difference across the membrane in 2 areas:
+1) Small molecule concentrations (chemical potential differences)
+2) Moving charged molecules (electrical potential differences)
 
-> If epigenetic mechanisms are important for guiding regeneration, how might these mechanisms link to upstream bioelectric controls? One system in which such a pathway has been elucidated is the orientation of the early embryonic left-right axis by an endogenous Left to Right voltage gradient. Recent work demonstrated that a histone de-acetylation mechanism converts the very early voltage gradient into asymmetric gene expression at much later stages by rightward electrophoretic transport of serotonin—a cofactor for a histone deacetylase...Moreover, pharmacological reduction of HDAC activity using the inhibitor, sodium butyrate, also induced heterotaxia, characterized by increased histoneacetylation and aberrant expression of the conservedleft-right asymmetry marker, Nodal related 1 (Xnr-1) gene.[^8]
+They refer to these causal relationships between the multi and single cellular levels of operation as intracellular signalling-dependent transcription.[^8] In these cases, electrochemical gradient states are shown to be causally upstream to single cellular dynamics to create transcription predictions that can then be associated with epigenetic processes.
 
-Deacylation is a mechanism by which lost epigenetic markers are reintroduced via the removal of acyl groups on the surface of histones, thereby reintroducing redundancy to the gene regulatory network. 
+The path forward I am currently exploring are places where Levin and his team have shown intracellular signalling-dependent transcription to be prevalent between the electrochemical gradient and histone deacetylation specifically.
+
+> If epigenetic mechanisms are important for guiding regeneration, how might these mechanisms link to upstream bioelectric controls? One system in which such a pathway has been elucidated is the orientation of the early embryonic left-right axis by an endogenous Left to Right voltage gradient. Recent work demonstrated that a histone de-acetylation mechanism converts the very early voltage gradient into asymmetric gene expression at much later stages by rightward electrophoretic transport of serotonin—a cofactor for a histone deacetylase...Moreover, pharmacological reduction of HDAC activity using the inhibitor, sodium butyrate, also induced heterotaxia, characterized by increased histone acetylation and aberrant expression of the conserved left-right asymmetry marker, Nodal related 1 (Xnr-1) gene.[^9]
+
+Histone deacylation is a mechanism by which lost epigenetic markers are reintroduced via the removal of acyl groups on the surface of histones, thereby reintroducing redundancy to the gene regulatory network. 
 
 I highlight more examples like this in my review of [Bioelectricity as an upstream causal factor in aging]({{< ref "bioelectricityaging" >}}).
 
@@ -126,6 +132,11 @@ In academic work, please cite this essay as:
 
 _Anderson, Benjamin, “The Free Energy Theory of Aging”, TheBenjam.in (2022-09-05), available at https://www.thebenjam.in/research/._
 
+---
+
+### Changelog
+*September 7, 2022* — Expanded the ending discussion on intracellular signalling-dependent transcription and added a new citation. 
+
 [^1]: Andrews, M. The math is not the territory: navigating the free energy principle. Biol Philos 36, 30 (2021). https://doi.org/10.1007/s10539-021-09807-0
 
 [^2]: Anderson, Benjamin, “Causal Emergence in Biological Networks”, TheBenjam.in (2022-07-23), available at https://www.thebenjam.in/research/.
@@ -141,4 +152,6 @@ http://doi.org/10.1098/rsta.2021.0150
 
 [^7]: Lipsitz LA, Goldberger AL. Loss of 'Complexity' and Aging: Potential Applications of Fractals and Chaos Theory to Senescence. JAMA. 1992;267(13):1806–1809. doi:10.1001/jama.1992.03480130122036
 
-[^8]: Tseng, A.-S. and Levin, M. (2012), Transducing Bioelectric Signals into Epigenetic Pathways During Tadpole Tail Regeneration. Anat Rec, 295: 1541-1551. https://doi.org/10.1002/ar.22495
+[^8]: Friston Karl, Levin Michael, Sengupta Biswa and Pezzulo Giovanni 2015 Knowing one's place: a free-energy approach to pattern regulation J. R. Soc. Interface. 12: 20141383. 20141383 https://doi.org/10.1098/rsif.2014.1383
+
+[^9]: Tseng, A.-S. and Levin, M. (2012), Transducing Bioelectric Signals into Epigenetic Pathways During Tadpole Tail Regeneration. Anat Rec, 295: 1541-1551. https://doi.org/10.1002/ar.22495
