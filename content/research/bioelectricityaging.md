@@ -209,4 +209,4 @@ Regulation of connexin expression by transcription factors and epigenetic mechan
 [^16]: Tseng, A.-S. and Levin, M. (2012), Transducing Bioelectric Signals into Epigenetic Pathways During Tadpole Tail Regeneration. Anat Rec, 295: 1541-1551. https://doi.org/10.1002/ar.22495
 [^17]: de Lima Camillo, L.P., Quinlan, R.B.A. A ride through the epigenetic landscape: aging reversal by reprogramming. GeroScience 43, 463–485 (2021). https://doi.org/10.1007/s11357-021-00358-6
 [^18]: Herskovits AZ, Guarente L. Sirtuin deacetylases in neurodegenerative diseases of aging. Cell Res. 2013 Jun;23(6):746-58. doi: 10.1038/cr.2013.70. Epub 2013 May 21. PMID: 23689277; PMCID: PMC3674397.
-[19]: Chernet, B. T., & Levin, M. (2014). Transmembrane voltage potential of somatic cells controls oncogene-mediated tumorigenesis at long-range. Oncotarget, 5(10), 3287–3306. https://doi.org/10.18632/oncotarget.1935
+[^19]: Chernet, B. T., & Levin, M. (2014). Transmembrane voltage potential of somatic cells controls oncogene-mediated tumorigenesis at long-range. Oncotarget, 5(10), 3287–3306. https://doi.org/10.18632/oncotarget.1935
