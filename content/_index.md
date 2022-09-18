@@ -6,11 +6,11 @@ description: "Desciple of Experience"
 
 
 {{< lead >}}
-A disciple of experience, adversary to time. 
+I simplify complex processes and build resilient systems.
 {{< /lead >}}
 
-Hey there, I'm Ben. I spend most of my time these days consulting, producing a [podcast](https://www.vancecrowe.com/podcast), [reading]({{< ref "books" >}}) to come up with new ideas, and writing about them [here](https://thebenjamin.substack.com/). 
+Hey there, I'm Ben. I spend most of my [time]({{< ref "about" >}}) these days consulting, producing a [podcast](https://www.vancecrowe.com/podcast), and helping others secure their life's wisdom through what we call a ['Legacy Interview'](https://legacyinterviews.com/).
 
-I have a knack for building [marketplaces]({{< ref "marketplaces" >}}) because I love helping users on one side of my platforms take ownership of their income and users on the other side buy back the one thing they thought that they couldn't: [time]({{< ref "about" >}}). 
+My [research]({{< ref "research" >}}) is focussed on finding causality in complexity. 
 
 
