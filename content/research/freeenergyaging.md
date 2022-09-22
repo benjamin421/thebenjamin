@@ -24,7 +24,7 @@ I have been captured by ideas in aging and longevity reseach for as long as I ca
 
 Over time, I've come to a conclusion that I find to be unique based on my conversations with others in this field. 
 
-I am a biomedical engineering dropout accredited only by discipline and experience, focusing on the biology of aging in my spare time. I do however feel a certain sense of authority in putting this forward given that I have been fortunate enough to pressure test it through conversations in person with the top aging researchers in the field at the inaugural [GRC Systems Aging Conference](https://www.forbes.com/sites/alexzhavoronkov/2022/06/29/a-week-at-the-most-secretive-conference-on-aging/?sh=3ad11077201d) in May, 2022. 
+I am a biomedical engineering dropout accredited only by discipline and experience, focusing on the biology of aging in my spare time. I have been fortunate enough to pressure test these ideas through conversations in person with the top aging researchers in the field at the inaugural [GRC Systems Aging Conference](https://www.forbes.com/sites/alexzhavoronkov/2022/06/29/a-week-at-the-most-secretive-conference-on-aging/?sh=3ad11077201d) in May, 2022. 
 
 When bringing this concept up, the top comments I recieved were that is was viable and an unexplored direction, however given the fact that it was relatively unexplored, conversations could only go so far. It is for this reason that I am taking the next step to pressure test the idea here. 
 
@@ -36,9 +36,9 @@ There is an idea from neuroscience referred to as the free energy principle. Wha
 
 This is sort of similar to the idea of Hebbian Learning which is commonly remembered by the saying: 'neurons that fire together, wire together.'
 
-As these systems adapt to minimize energy allocated for their most common processes, this comes at an alternate cost. That cost is in the resilience to other stressors that system might have to deal with. 
+As these systems adapt to minimize energy allocated for their most common processes, this comes at an alternate cost. That cost is in the resilience to other stressors that system might have to deal with.[^1] 
 
-I was introduced to the idea of the free energy principle when I read a paper called *The math is not the territory*[^1]. I had come across a personality on Twitter named Mel Andrews, aka [@bayesianboy](https://twitter.com/bayesianboy), and at the time, it was their pinned tweet. I was captured by the title, and so added it to my bookmarks to read in the near future.
+I was introduced to the idea of the free energy principle when I read a paper called *The math is not the territory*[^2]. I had come across a personality on Twitter named Mel Andrews, aka [@bayesianboy](https://twitter.com/bayesianboy), and at the time, it was their pinned tweet. I was captured by the title, and so added it to my bookmarks to read in the near future.
 
 In Andrews' paper, they talk about the free energy principle's background in neuroscience, it's increased adaptation in other verticals, and proposes:
 
@@ -49,15 +49,15 @@ In Andrews' paper, they talk about the free energy principle's background in neu
 By the time I finished reading this paper, I had become convinced that this idea explained something that I had been circling the drain on for a long time. 
 
 ### Background
-Before I read this paper, I had been doing program analyses on gene regulatory networks and protein interactomes to find out their causal emergence properties.[^2] Causal Emergence is an idea from [Eric Hoel](https://twitter.com/erikphoel) suggesting that macro scale representations of systems can reduce the noise in causal relationships, thereby increasing the causal determinism of the system in it's new macro representation.[^3]
+Before I read this paper, I had been doing program analyses on gene regulatory networks and protein interactomes to find out their causal emergence properties.[^3] Causal Emergence is an idea from [Eric Hoel](https://twitter.com/erikphoel) suggesting that macro scale representations of systems can reduce the noise in causal relationships, thereby increasing the causal determinism of the system in it's new macro representation.[^4]
 
 Macro scale networks contain more effective information than a microscale network. Effective information is the assessment of the causal power of a cause, *c* to produce an effect, *e* for all possible transitions between all possible causes and effects. 
 
-I was intrigued by this idea because it sounded like one that might be productively applied to increasing our understanding of gene regulatory networks, which are often very complex, and therefore hard to track causality across their interactions. Extremely fine grained causal models in these networks obscure more data than they provide insight due to inherent noise. Intrinsic noise in a biological system manifests as uncertainty between state transitions.[^4]
+I was intrigued by this idea because it sounded like one that might be productively applied to increasing our understanding of gene regulatory networks, which are often very complex, and therefore hard to track causality across their interactions. Extremely fine grained causal models in these networks obscure more data than they provide insight due to inherent noise. Intrinsic noise in a biological system manifests as uncertainty between state transitions.[^5]
 
-> Biological networks have the lowest effectiveness values. This is because redundancy, degeneracy and noise are high. This is a strong indicator of biological informative connectivity taking place at a higher scale.[^5]
+> Biological networks have the lowest effectiveness values. This is because redundancy, degeneracy and noise are high. This is a strong indicator of biological informative connectivity taking place at a higher scale.[^6]
 
-Hoel has since released another paper[^6] expanding on his idea. In it, he talks about how what may be happening by means of causal emergence is the transition from redundant information to synergistic information at a higher scale. It is here from my exposure to the language of 'redundant and synergistic information' that got my brain thinking about the complexities of interactions in their original form as 'redundant', i.e. multiple ways of achieving the same end. 
+Hoel has since released another paper[^7] expanding on his idea. In it, he talks about how what may be happening by means of causal emergence is the transition from redundant information to synergistic information at a higher scale. It is here from my exposure to the language of 'redundant and synergistic information' that got my brain thinking about the complexities of interactions in their original form as 'redundant', i.e. multiple ways of achieving the same end. 
 
 This leads to the certainty paradox inside of our internal biological networks. The paradox is that redundancy in connectivity is desirable since it is protective from node failures.
 
@@ -65,7 +65,7 @@ For example, if a harmful intervention enters the network that disrups pathway A
 
 ![Image of redundant pathway explanation](/img/redundancy.png)
 
-Over time, examples like the one pictured above become less and less the case. Our biological networks decrease in complexity[^7], and futhermore their redundancy throughout time. With this decrease in redundancy comes too a decrease in resilience to potential stressors and harmful interventions. 
+Over time, examples like the one pictured above become less and less the case. Our biological networks decrease in complexity[^8], and futhermore their redundancy throughout time. With this decrease in redundancy comes too a decrease in resilience to potential stressors and harmful interventions. 
 
 ![Image of decrease in redundancy over time](/img/katephoto.png)
 _Photo courtesy of [Kate Crosby](https://scholar.google.com/scholar?q=author:%22Crosby%20Kate%22) after I explained these ideas._
@@ -100,17 +100,17 @@ The model I outline above is the policy, and here are some potential control mec
 - ***Modulation on endogenous bioelectric networks**
 - Genetic knock-out/knock-in
 
-I have became excited by one potential control mechanism in particular. In the [Allen Discover Center](https://allencenter.tufts.edu/) at Tufts University, [Michael Levin](https://twitter.com/drmichaellevin) and his lab are mapping causal relationships between electrochemical gradients and transcriptional processes.
+I have became excited by one potential control mechanism in particular. In the [Allen Discovery Center](https://allencenter.tufts.edu/) at Tufts University, [Michael Levin](https://twitter.com/drmichaellevin) and his lab are mapping causal relationships between electrochemical gradients and transcriptional processes.
 
 The electrochemical gradient consists of the free energy potential difference across the cell membrane in 2 places:
 1) Small molecule concentrations (chemical potential differences)
 2) Moving charged molecules (electrical potential differences)
 
-They refer to these causal relationships between the multi and single cellular levels of operation as intracellular signalling-dependent transcription.[^8] In these cases, electrochemical gradient states are shown to be causally upstream to single cellular dynamics to create transcription predictions that can then be associated with epigenetic processes.
+They refer to these causal relationships between the multi and single cellular levels of operation as intracellular signalling-dependent transcription.[^9] In these cases, electrochemical gradient states are shown to be causally upstream to single cellular dynamics to create transcription predictions that can then be associated with epigenetic processes.
 
 The path forward I am currently exploring are places where Levin and his team have shown intracellular signalling-dependent transcription to be prevalent between the electrochemical gradient and histone deacetylation specifically.
 
-> If epigenetic mechanisms are important for guiding regeneration, how might these mechanisms link to upstream bioelectric controls? One system in which such a pathway has been elucidated is the orientation of the early embryonic left-right axis by an endogenous Left to Right voltage gradient. Recent work demonstrated that a histone de-acetylation mechanism converts the very early voltage gradient into asymmetric gene expression at much later stages by rightward electrophoretic transport of serotonin—a cofactor for a histone deacetylase...Moreover, pharmacological reduction of HDAC activity using the inhibitor, sodium butyrate, also induced heterotaxia, characterized by increased histone acetylation and aberrant expression of the conserved left-right asymmetry marker, Nodal related 1 (Xnr-1) gene.[^9]
+> If epigenetic mechanisms are important for guiding regeneration, how might these mechanisms link to upstream bioelectric controls? One system in which such a pathway has been elucidated is the orientation of the early embryonic left-right axis by an endogenous Left to Right voltage gradient. Recent work demonstrated that a histone de-acetylation mechanism converts the very early voltage gradient into asymmetric gene expression at much later stages by rightward electrophoretic transport of serotonin—a cofactor for a histone deacetylase...Moreover, pharmacological reduction of HDAC activity using the inhibitor, sodium butyrate, also induced heterotaxia, characterized by increased histone acetylation and aberrant expression of the conserved left-right asymmetry marker, Nodal related 1 (Xnr-1) gene.[^10]
 
 Histone deacylation is a mechanism by which lost epigenetic markers are reintroduced via the removal of acyl groups on the surface of histones, thereby reintroducing redundancy to the gene regulatory network. 
 
@@ -137,21 +137,26 @@ _Anderson, Benjamin, “The Free Energy Theory of Aging”, TheBenjam.in (2022-0
 ### Changelog
 *September 7, 2022* — Expanded the ending discussion on intracellular signalling-dependent transcription and added a new citation. 
 
-[^1]: Andrews, M. The math is not the territory: navigating the free energy principle. Biol Philos 36, 30 (2021). https://doi.org/10.1007/s10539-021-09807-0
+*September 22, 2022* — Altered opening. Added a new citation. 
 
-[^2]: Anderson, Benjamin, “Causal Emergence in Biological Networks”, TheBenjam.in (2022-07-23), available at https://www.thebenjam.in/research/.
+[^1]: Maxwell James Désormeau Ramstead, Paul Benjamin Badcock, Karl John Friston, Answering Schrödinger's question: A free-energy formulation, Physics of Life Reviews, Volume 24,2018, Pages 1-16, ISSN 1571-0645,
+https://doi.org/10.1016/j.plrev.2017.09.001
 
-[^3]: Comolatti, Renzo & Hoel, Erik. (2022). Causal emergence is widespread across measures of causation. 
+[^2]: Andrews, M. The math is not the territory: navigating the free energy principle. Biol Philos 36, 30 (2021). https://doi.org/10.1007/s10539-021-09807-0
 
-[^4]: Erik Hoel & Michael Levin (2020) Emergence of informative higher scales in biological systems: a computational toolkit for optimal prediction and control, Communicative & Integrative Biology, 13:1, 108-118, DOI: 10.1080/19420889.2020.1802914
+[^3]: Anderson, Benjamin, “Causal Emergence in Biological Networks”, TheBenjam.in (2022-07-23), available at https://www.thebenjam.in/research/.
 
-[^5]: Klein, Brennan & Hoel, Erik. (2020). The Emergence of Informative Higher Scales in Complex Networks. Complexity. 2020. 1-12. 10.1155/2020/8932526. 
+[^4]: Comolatti, Renzo & Hoel, Erik. (2022). Causal emergence is widespread across measures of causation. 
 
-[^6]: Varley Thomas F. and Hoel Erik 2022 Emergence as the conversion of information: a unifying theoryPhil. Trans. R. Soc. A.3802021015020210150
+[^5]: Erik Hoel & Michael Levin (2020) Emergence of informative higher scales in biological systems: a computational toolkit for optimal prediction and control, Communicative & Integrative Biology, 13:1, 108-118, DOI: 10.1080/19420889.2020.1802914
+
+[^6]: Klein, Brennan & Hoel, Erik. (2020). The Emergence of Informative Higher Scales in Complex Networks. Complexity. 2020. 1-12. 10.1155/2020/8932526. 
+
+[^7]: Varley Thomas F. and Hoel Erik 2022 Emergence as the conversion of information: a unifying theoryPhil. Trans. R. Soc. A.3802021015020210150
 http://doi.org/10.1098/rsta.2021.0150
 
-[^7]: Lipsitz LA, Goldberger AL. Loss of 'Complexity' and Aging: Potential Applications of Fractals and Chaos Theory to Senescence. JAMA. 1992;267(13):1806–1809. doi:10.1001/jama.1992.03480130122036
+[^8]: Lipsitz LA, Goldberger AL. Loss of 'Complexity' and Aging: Potential Applications of Fractals and Chaos Theory to Senescence. JAMA. 1992;267(13):1806–1809. doi:10.1001/jama.1992.03480130122036
 
-[^8]: Friston Karl, Levin Michael, Sengupta Biswa and Pezzulo Giovanni 2015 Knowing one's place: a free-energy approach to pattern regulation J. R. Soc. Interface. 12: 20141383. 20141383 https://doi.org/10.1098/rsif.2014.1383
+[^9]: Friston Karl, Levin Michael, Sengupta Biswa and Pezzulo Giovanni 2015 Knowing one's place: a free-energy approach to pattern regulation J. R. Soc. Interface. 12: 20141383. 20141383 https://doi.org/10.1098/rsif.2014.1383
 
-[^9]: Tseng, A.-S. and Levin, M. (2012), Transducing Bioelectric Signals into Epigenetic Pathways During Tadpole Tail Regeneration. Anat Rec, 295: 1541-1551. https://doi.org/10.1002/ar.22495
+[^10]: Tseng, A.-S. and Levin, M. (2012), Transducing Bioelectric Signals into Epigenetic Pathways During Tadpole Tail Regeneration. Anat Rec, 295: 1541-1551. https://doi.org/10.1002/ar.22495
