@@ -16,7 +16,7 @@ showPagination: true
 ---
 
 {{< lead >}}
-Last updated — September 2022 | What is the role of redundancy in gene regulatory networks, and how does it change over time and between species?
+Last updated — October 2022 | What is the role of redundancy in biological networks, and how does it change over time and across scales of spatial organization?
 {{< /lead >}}
 
 ## Overview
@@ -25,19 +25,34 @@ Last updated — September 2022 | What is the role of redundancy in gene regulat
 >
  — *Harold Saxton Burr*[^1]
 
-Causal Emergence is the conversion of redundant information to synergistic information.[^2] The below effects of course graining existing networks denotes a decrease in the uncertainty of state transitions across the networks. A promising area for continued exploration would be in the seeking of highly causal pathways/Markov chains across these networks that then serve to be extrapolated back down to original scale and perterbed to determine effects of intervention.[^3] Alternatively, these causal pathways can be enhanced with a literature search to determine corrolary phenotypes tied to involved genes and proteins. 
+Causal Emergence is the conversion of redundant information to synergistic information.[^2] The below effects of course graining existing networks denotes a decrease in the uncertainty of state transitions across the networks. A promising area for continued exploration would be in the seeking of highly causal pathways/Markov chains across these networks that then serve to be extrapolated back down to original scale and perterbed to determine effects of intervention.[^3] Alternatively, these causal pathways can be enhanced with a literature search to determine corrolary phenotypes tied to involved interactions across the 2 explored scales. 
 
-A key idea that I am exploring here is the role of redundancy in networks, and how it changes over time, especially in gene regulatory networks. My hypothesis is that as a byproduct of aging, redundant pathways in the GRNs of our cells are slowly erased through the build-up of epigenetic markers, serving to block certain interactions as a means of adhering to the free energy principal.[^4] 
+The key idea that I am exploring here is the role of redundancy in networks, and how it changes over time in gene regulatory networks. My hypothesis is that as a byproduct of aging, redundant pathways in the GRNs of our cells are slowly erased through the build-up of epigenetic markers, serving to block certain interactions as a means of adhering to the free energy principal.[^4] 
 
-An unaswered question I have in this regard is the direction of causality for promoting this build-up. It has been shown that there is a direct correlation between epigenetic markers and the regulation of intercellular communication through ion channels and gap junctions[^5],[^6],[^7], however it is unknown—_at least to me at present_—whether the buildup of these markers are themselves a downstream process effected by intercellular communication through these channels. This would imply that they serve as a feedback loop to eachother, wheras if the promotion of buildup was being prompted at the GRN/DNA level exclusively, then the changes in intercellular communication over time related to epigenetic marker buildup would be exclusively downstream of GRN interactions, and not causal. 
+An unaswered question I have in this regard is the direction of causality for promoting this build-up. This is why in addition to GRNs, I choose to run the same network analysis on bioelectricity-integrated gene and reaction(BIGR) networks.[^5] It has been shown that there is a direct correlation between epigenetic markers and the regulation of intercellular communication through ion channels and gap junctions[^6],[^7],[^8], however it is unknown—_at least to me at present_—whether the buildup of these markers are themselves a downstream process effected by intercellular signaling dependent transcription. This would imply that they serve as a feedback loop to eachother, wheras if the promotion of buildup was being prompted at the GRN/DNA level alone, then the changes in intercellular communication over time related to epigenetic marker buildup would be exclusively downstream of GRN interactions, and not causal. 
 
-Intuition tells me that a feedback mechanism between the 2 is at play, and there is probably a more complicated answer than the two simplistic models that I have outlined above. For the sake of thinking about where to intervene however, I seek to answer the question of which is _more_ causal to the other. 
+For the sake of thinking about where to intervene, I seek to answer the question of which is _more_ causal to the other. 
 
 ---
-### What I'm doing
-1. Use provided list of GenAge Genes from [here](https://genomics.senescence.info/download.html) for base gene dataset.
+
+# Gene Networks
+
+## Before:
+
+![Image of initial human gene network](/img/original.png)
+_Human — Aging, Original_
+
+## After:
+
+![Image of iteration 7 from human gene network](/img/v7.png)
+_Human — Aging, Iteration 7_
+
+---
+
+## What I'm doing
+1. Take a base gene dataset.
 2. Use [STRING](https://string-db.org/cgi/input?sessionId=brdWSUC1G4au&input_page_show_search=off) to create a graph of these genes and their pathways with wieghted edges. 
-3. Use [this package](https://github.com/jkbren/einet) to determine effective information for this graph[^8]: 
+3. Use [this package](https://github.com/jkbren/einet) to determine effective information for this graph[^9]: 
 {{< highlight html "linenos=table,hl_lines=5" >}}
 from ei_net import effective_information
 import networkx as nx
@@ -56,19 +71,6 @@ Effectiveness gain: {VALUE}
 6. Repeat until no more macro nodes are found. 
 
 ---
-
-## Before:
-
-![Image of initial human gene network](/img/original.png)
-_Human — Aging, Original_
-
-## After:
-
-![Image of iteration 7 from human gene network](/img/v7.png)
-_Human — Aging, Iteration 7_
-
----
-# Results from GenAge Dataset
 
 ## Humans — 
 
@@ -195,29 +197,88 @@ cc: https://www.tandfonline.com/doi/full/10.1080/19420889.2020.1802914
 **Final Effectiveness: 0.565002**
 
 ---
+# BIGR Networks
 
+**BIGR Networks = bioelectricity-integrated gene and reaction networks.**
+>The functional properties of BIGR networks generate the first testable, quantitative hypotheses for biophysical mechanisms underlying the stability and adaptive regulation of anatomical bioelectric pattern.[^9]
 
-### Open Questions / Areas to Explore
-1. **Causal emergence difference in other portions of the total GRN network.** 
+---
 
-Due to data/computational constraints, I have defaulted to examining causal emergence in a series aging phenotype networks in different species.
+## What I'm doing
+1. Take a base [BETSE](https://github.com/betsee/betse) config file with a GRN specified.
+2. Run the simulation and output a network of the resulting bioelectric circuit.
+{{< highlight html "linenos=table,hl_lines=7" >}}
+model.run_pipeline()
+...(wait for simulation)
+grn = model.phase.sim.grn.core
+grn.init_saving(model.phase.cells, model.p, nested_folder_name='GRN')
+savename = grn.imagePath + 'OptimizedNetworkGraph' + '.svg'
+graph_pydot.write_svg(savename, prog='dot')
+graph_network = networkx.nx_pydot.from_pydot(graph_pydot)
+networkx.write_gml(graph_network, "graphname.gml")
+{{< /highlight >}}
+3. Use [this package](https://github.com/jkbren/einet) to determine effective information for this graph[^8]: 
+{{< highlight html "linenos=table,hl_lines=5" >}}
+from ei_net import effective_information
+import networkx as nx
+import numpy as np 
+G=nx.read_gml("graphname.gml")
+EI_micro = effective_information(G)   
+print("EI micro: %.6f"%EI_micro)
+{{< /highlight >}}
+4. Create a macro graph using the same package. More details on how to do this [here](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13805).
+5. Return difference between effective information across 2 graphs as well as e:
+{{< highlight html "linenos=table,hl_lines=1" >}}
+eff_gain = (EI_macro-EI_micro)/np.log2(N)
+print("Effectiveness gain: %.6f"%eff_gain)
+Effectiveness gain: {VALUE}
+{{< /highlight >}}
+6. Repeat until no more macro nodes are found. 
 
-2. **Find out where to get data for and how to model bioelectric communication networks to then course grain for causal emergence.**  
- 
-The challenge in doing this to compare results to an analysis at the GRN level is that the effective information returned at the bioelctric network scale would be a far broader representation of uncertainty in state change than the single cell phenotype network. 
+---
 
-- One solution to compare these 2 scales effectively may be to continue exploring causal emergence in different GRNs for different phenotypes across species, and create some sort of index of the average changes in causal emergence across all these different GRNs to then compare to results at the intercellular communication network scale. 
-    
-- Over time, as this index would grow, it could be used as a new tool for discovering novel points with which to anchor bioelctric networks to downstream transcriptional effects. 
+## Tissues that have as little change as possible through time, but with high variance between cells[^10]
 
-- **Currently diving into [BETSE](https://github.com/benjamin421/betse) to accomplish this.**
+**Initial Effectiveness: 0.664508**
+
+| Run                                | Nodes               | Edges               |Effective Information               | Effectiveness Gain               | 
+| ---------------------------------------| ----------------------| ----------------------|----------------------| ----------------------|
+| Original   | 26   | 24 | 3.1234786725698864 | N/A |
+| 1   | 20   | 18 | 3.382072 | 0.055015 |
+
+**Final Effectiveness: 0.782538**
+
+---
+
+## Tissue that is stable on a specific pattern[^10]
+
+### "Smiley" Pattern:
+
+**Initial Effectiveness: 0.749480**
+
+| Run                                | Nodes               | Edges               |Effective Information               | Effectiveness Gain               | 
+| ---------------------------------------| ----------------------| ----------------------|----------------------| ----------------------|
+| Original   | 23   | 19 | 3.3903195311147827 | N/A |
+| 1   | 20   | 17 | 3.417340 | 0.005973 |
+
+**Final Effectiveness: 0.790698**
+
+### "Bullseye" Pattern:
+
+**Initial Effectiveness: 0.678185**
+
+| Run                                | Nodes               | Edges               |Effective Information               | Effectiveness Gain               | 
+| ---------------------------------------| ----------------------| ----------------------|----------------------| ----------------------|
+| Original   | 17   | 15 | 2.7720552088742005 | N/A |
+| 1   | 16   | 14 | 2.823068 | 0.012480 |
+
+**Final Effectiveness: 0.705767**
 
 ---
 
 ## To Do
-1. Run against human and mouse genes from different dataset: https://ngdc.cncb.ac.cn/aging/age_related_genes
-2. Rerun against yeast genes from GenAge dataset 
-3. Test Resilience and Prospective Resilience of all generated networks: https://github.com/jkbren/presilience
+1. Run against more complex GRN simulations in BIGR networks.
+2. Test Resilience and Prospective Resilience of all generated networks: https://github.com/jkbren/presilience
 
 ---
 
@@ -235,6 +296,8 @@ Aging Genes for Multiple Species: https://genomics.senescence.info/genes/index.h
 
 Senescence Genes for Humans: https://genomics.senescence.info/cells/
 
+Supplementary files for BIGR network simulations: https://www.biorxiv.org/content/10.1101/2022.10.23.513361v1.supplementary-material
+
 ---
 
 ### Citation
@@ -249,15 +312,19 @@ _August 22, 2022_ — Added physiology data for mice and stem cell genes data fo
 
 _September 14, 2022_ — Added quote at the beginning and citation to Free Energy Theory of Aging write-up. 
 
+_October 25, 2022_ — Removed 'Open questions / Areas to Explore' section. Added 'BIGR networks' section. Edited 'Overview' section.
+
 [^1]: Burr, Harold Saxton. *Blueprint for Immortality: The Electric Patterns of Life.* 
 [^2]: Varley Thomas F. and Hoel Erik 2022 Emergence as the conversion of information: a unifying theory _Phil. Trans. R. Soc. A._ 380: 20210150.20210150
 [^3]: Brennan Klein, Erik Hoel, Anshuman Swain, Ross Griebenow, Michael Levin, Evolution and emergence: higher order information structure in protein interactomes across the tree of life, Integrative Biology, Volume 13, Issue 12, December 2021, Pages 283–294, https://doi.org/10.1093/intbio/zyab020
 http://doi.org/10.1098/rsta.2021.0150
 [^4]: _Anderson, Benjamin, “The Free Energy Theory of Aging”, TheBenjam.in (2022-09-05), available at https://www.thebenjam.in/research/._
-[^5]: Masahito Oyamada, Kumiko Takebe, Yumiko Oyamada,
+[^5]: Pietak A, Levin M. Bioelectric gene and reaction networks: computational modelling of genetic, biochemical and bioelectrical dynamics in pattern regulation. J R Soc Interface. 2017 Sep;14(134):20170425. doi: 10.1098/rsif.2017.0425. PMID: 28954851; PMCID: PMC5636277.
+[^6]: Masahito Oyamada, Kumiko Takebe, Yumiko Oyamada,
 Regulation of connexin expression by transcription factors and epigenetic mechanisms, Biochimica et Biophysica Acta (BBA) - Biomembranes,
 Volume 1828, Issue 1, 2013, Pages 118-133, ISSN 0005-2736,
 https://doi.org/10.1016/j.bbamem.2011.12.031.
-[^6]: Tseng, A.-S. and Levin, M. (2012), Transducing Bioelectric Signals into Epigenetic Pathways During Tadpole Tail Regeneration. Anat Rec, 295: 1541-1551. https://doi.org/10.1002/ar.22495
-[^7]: Pai, V. P., Martyniuk, C. J., Echeverri, K., Sundelacruz, S., Kaplan, D. L., & Levin, M. (2015). Genome-wide analysis reveals conserved transcriptional responses downstream of resting potential change in Xenopus embryos, axolotl regeneration, and human mesenchymal cell differentiation. Regeneration (Oxford, England), 3(1), 3–25. https://doi.org/10.1002/reg2.48
-[^8]: Klein, B., Swain, A., Byrum, T., Scarpino, S. V. & Fagan, W. F. (2022). Exploring noise, degeneracy and determinism in biological networks with the einet package. Methods in Ecology and Evolution, 13, 799– 804. https://doi.org/10.1111/2041-210X.13805
+[^7]: Tseng, A.-S. and Levin, M. (2012), Transducing Bioelectric Signals into Epigenetic Pathways During Tadpole Tail Regeneration. Anat Rec, 295: 1541-1551. https://doi.org/10.1002/ar.22495
+[^8]: Pai, V. P., Martyniuk, C. J., Echeverri, K., Sundelacruz, S., Kaplan, D. L., & Levin, M. (2015). Genome-wide analysis reveals conserved transcriptional responses downstream of resting potential change in Xenopus embryos, axolotl regeneration, and human mesenchymal cell differentiation. Regeneration (Oxford, England), 3(1), 3–25. https://doi.org/10.1002/reg2.48
+[^9]: Klein, B., Swain, A., Byrum, T., Scarpino, S. V. & Fagan, W. F. (2022). Exploring noise, degeneracy and determinism in biological networks with the einet package. Methods in Ecology and Evolution, 13, 799– 804. https://doi.org/10.1111/2041-210X.13805
+[^10]:Exploring The Behavior of Bioelectric Circuits using Evolution Heuristic Search. Hananel Hazan, Michael Levin. bioRxiv 2022.10.23.513361; doi: https://doi.org/10.1101/2022.10.23.513361
