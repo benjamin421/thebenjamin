@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Anderson"
-description: "Desciple of Experience"
+description: "Disciple of Experience"
 ---
 
 
