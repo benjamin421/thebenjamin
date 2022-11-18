@@ -44,6 +44,8 @@ It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com) if you 
 
     - Spetember 2021 — [Mimetic Desire, vaccine passports, and voices in your head](https://share.transistor.fm/s/815116bd)
 
+- The Hue Seth Show: [Legacy, Succession Planning & Entrepreneurship](https://www.youtube.com/watch?v=hHPn_4lrZ_g)
+
 - This is Breach: [Lift Off II Residential Experience](https://youtu.be/iJnLIOX_50I?t=309)
 
 - St. Louis Post Dispatch: [SafeT, Inc. Announces 2019 Grant Recipients](https://www.stltoday.com/pr/business/st-louis-based-safet-inc-announces-2019-grant-recipients/article_a4f1c452-e09a-11e9-b853-97fb7d0da59e.html)
