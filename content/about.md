@@ -32,7 +32,10 @@ It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com) if you 
 
 - Forbes: [A Week At The Most Secretive Conference On Aging](https://www.forbes.com/sites/alexzhavoronkov/2022/06/29/a-week-at-the-most-secretive-conference-on-aging/?sh=2a108820201d)
 
-- St. Louis Business Journal: [Why this St. Louis startup — with a focus on cleaning — sees opportunity from Covid-19](https://www.bizjournals.com/stlouis/news/2020/05/20/st-louis-cleaning-startup-sees-opportunity.html)
+
+- St. Louis Business Journal: 
+    - May 2020 — [Why this St. Louis startup — with a focus on cleaning — sees opportunity from Covid-19](https://www.bizjournals.com/stlouis/news/2020/05/20/st-louis-cleaning-startup-sees-opportunity.html)
+    - December 2022 — [Startup that provides software for the cleaning industry lands new owner](https://www.bizjournals.com/stlouis/inno/stories/news/2022/12/13/wand-usa-sells-to-greenaway-ventures.html)
 
 - The Vance Crowe Podcast:
 
