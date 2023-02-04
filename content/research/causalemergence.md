@@ -16,7 +16,7 @@ showPagination: true
 ---
 
 {{< lead >}}
-Last updated — October 2022 | What is the role of redundancy in biological networks, and how does it change over time and across scales of spatial organization?
+Last updated — February 2023 | Providing insight into where interventions at higher scales could have the greatest impact on a biological system at its lower scales.
 {{< /lead >}}
 
 ## Overview
@@ -25,13 +25,21 @@ Last updated — October 2022 | What is the role of redundancy in biological net
 >
  — *Harold Saxton Burr*[^1]
 
-Causal Emergence is the conversion of redundant information to synergistic information.[^2] The below effects of course graining existing networks denotes a decrease in the uncertainty of state transitions across the networks. A promising area for continued exploration would be in the seeking of highly causal pathways/Markov chains across these networks that then serve to be extrapolated back down to original scale and perterbed to determine effects of intervention.[^3] Alternatively, these causal pathways can be enhanced with a literature search to determine corrolary phenotypes tied to involved interactions across the 2 explored scales. 
+Causal emergence refers to the process by which higher-level collective behaviors or properties emerge as a result of the interactions between lower-level components.[^2] It is a model for representing the information transfer between scales, where information flows from the microscale to the macroscale, producing emergent patterns or behaviors that cannot be fully explained by the behavior of individual components at the microscale. The macroscale representation of the interactions between components at the microscale provides new insights into how the system operates as a whole, beyond what can be understood from examining the behavior of individual components.
 
-The key idea that I am exploring here is the role of redundancy in networks, and how it changes over time in gene regulatory networks. My hypothesis is that as a byproduct of aging, redundant pathways in the GRNs of our cells are slowly erased through the build-up of epigenetic markers, serving to block certain interactions as a means of adhering to the free energy principal.[^4] 
+In this framework, _information conversion_ is the transformation of one type of information into another type of information as a result of changes in scale of spatial organization or modelling. Changes in scale, such as the transition from a microscale to a macroscale, can result in the conversion of causally irrelevant information (such as the uncertainty of state transitions) into causally relevant information (such as effective information). Information conversion takes place between types of information, the conversion of redundant information into synergistic information, through changes in modelling. The process of information conversion is a key aspect of emergence and it is possible to quantify this conversion through various information-theoretic measures.
 
-An unaswered question I have in this regard is the direction of causality for promoting this build-up. This is why in addition to GRNs, I choose to run the same network analysis on bioelectricity-integrated gene and reaction(BIGR) networks.[^5] It has been shown that there is a direct correlation between epigenetic markers and the regulation of intercellular communication through ion channels and gap junctions[^6],[^7],[^8], however it is unknown—_at least to me at present_—whether the buildup of these markers are themselves a downstream process effected by intercellular signaling dependent transcription. This would imply that they serve as a feedback loop to eachother, wheras if the promotion of buildup was being prompted at the GRN/DNA level alone, then the changes in intercellular communication over time related to epigenetic marker buildup would be exclusively downstream of GRN interactions, and not causal. 
+Below, I've chosen to analyze gene regulatory networks as a microscale using this framework. The data presented here shows decreases in the uncertainty of state transitions across these networks as their macroscale representations are created. 
 
-For the sake of thinking about where to intervene, I seek to answer the question of which is _more_ causal to the other. 
+The macroscale representations created here can provide insights into the relationships between gene-protein interactions and higher scales of biological organization such as tissues, organs, etc by showing how the original scale is being influenced by causally relevant information organized at the higher scale.
+
+By analyzing the macroscale of a gene reguatory network, we can see hints to the information flow that anchors the next highest scale of spatial organization to this original scale, and determine how the higher scale is affecting the behavior of the system at the original scale.[^3] This information can be used to better understand how the two scales are linked and how changes in the higher scale can impact the interactions at the original scale. Additionally, the macroscale representation can highlight areas of the network that may be particularly sensitive to changes in the higher scale, providing insight into where interventions at the higher scale could have the greatest impact on the system at the original scale.
+
+Not only am I interested in how redundant information is transformed into synergistic information at higher scales of spatial organization, but I am also exploring how redundant information is converted to synergistic information at its original scale as a product of time, especially in these gene regulatory networks. My hypothesis is that through aging, redundant pathways in the GRNs of our cells are slowly erased through the changes in epigenetic modificaitons, serving to block certain pathways as a means of adhering to the free energy principal.[^4] 
+
+Going back to the idea of causal emergence, the unaswered question I have in this regard is the direction of causality for promoting these epigenetic modifications. This is why in addition to GRNs, I choose to run the same network analysis on bioelectricity-integrated gene and reaction(BIGR) networks.[^5] It has been shown that there is a direct correlation between epigenetic modifications and the regulation of intercellular communication through ion channels and gap junctions[^6],[^7],[^8], however it is unknown whether the buildup of these markers are themselves a downstream process effected by intercellular communication through these channels. This would imply that they serve as a feedback loop to eachother, wheras if the promotion of modifications was being instigated at the GRN/DNA level exclusively, then the changes in intercellular communication over time related to epigenetic modifications would be causally downstream of GRN interactions, and not causal to them. 
+
+For the sake of thinking about where to intervene and alter these modifications, I seek to answer the question of which is _more_ causal to the other. 
 
 ---
 
@@ -313,6 +321,8 @@ _August 22, 2022_ — Added physiology data for mice and stem cell genes data fo
 _September 14, 2022_ — Added quote at the beginning and citation to Free Energy Theory of Aging write-up. 
 
 _October 25, 2022_ — Removed 'Open questions / Areas to Explore' section. Added 'BIGR networks' section. Edited 'Overview' section.
+
+_February 4, 2023_ — Rewrote 'Overview' section to add additional context regarding why this reseach is relevant to seeking more effective intervention strategies in biological systems. Updated lead text. 
 
 [^1]: Burr, Harold Saxton. *Blueprint for Immortality: The Electric Patterns of Life.* 
 [^2]: Varley Thomas F. and Hoel Erik 2022 Emergence as the conversion of information: a unifying theory _Phil. Trans. R. Soc. A._ 380: 20210150.20210150
