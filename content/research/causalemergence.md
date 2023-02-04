@@ -322,7 +322,7 @@ _September 14, 2022_ — Added quote at the beginning and citation to Free Energ
 
 _October 25, 2022_ — Removed 'Open questions / Areas to Explore' section. Added 'BIGR networks' section. Edited 'Overview' section.
 
-_February 4, 2023_ — Rewrote 'Overview' section to add additional context regarding why this reseach is relevant to seeking more effective intervention strategies in biological systems. Updated lead text. 
+_February 4, 2023_ — Rewrote 'Overview' section to add additional context regarding why this research is relevant to seeking more effective intervention strategies in biological systems. Updated lead text. 
 
 [^1]: Burr, Harold Saxton. *Blueprint for Immortality: The Electric Patterns of Life.* 
 [^2]: Varley Thomas F. and Hoel Erik 2022 Emergence as the conversion of information: a unifying theory _Phil. Trans. R. Soc. A._ 380: 20210150.20210150
