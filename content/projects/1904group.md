@@ -4,7 +4,7 @@ date: 2019-09-16
 draft: false
 description: "A nonprofit organization that connects military veterans with new missions in under-resourced communities."
 slug: "1904group"
-skills: ["Software Development", "UI/UX Design"]
+skills: ["Software Development", "UI/UX Design", "Wordpress"]
 showDate: false
 showAuthor: false
 showReadingTime: false

@@ -4,7 +4,7 @@ date: 2020-01-10
 draft: false
 description: "A marketplace for technicians."
 slug: "TecMe"
-skills: ["Consulting", "Marketing", "Founder", "Marketplaces"]
+skills: ["Consulting", "Marketing", "Founder", "Marketplaces", "Android Development", "iOS Development", "Flutter"]
 showDate: false
 showAuthor: false
 showReadingTime: false

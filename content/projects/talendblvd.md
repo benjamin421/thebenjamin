@@ -4,7 +4,7 @@ date: 2021-08-16
 draft: false
 description: "A marketplace for news talent."
 slug: "talentblvd"
-skills: ["Project Management", "Consulting", "Software Development", "Marketplaces", "UI/UX Design"]
+skills: ["Project Management", "Consulting", "Software Development", "Marketplaces", "UI/UX Design", "Node.js", "React"]
 showDate: false
 showAuthor: false
 showReadingTime: false

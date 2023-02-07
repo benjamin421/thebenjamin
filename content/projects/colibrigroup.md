@@ -4,7 +4,7 @@ date: 2022-02-15
 draft: false
 description: "Building the Future of Professional Education"
 slug: "colibri-group"
-skills: ["Software Development", "UI/UX Design"]
+skills: ["Software Development", "UI/UX Design", "Wordpress", "Shopify"]
 showDate: false
 showAuthor: false
 showReadingTime: false

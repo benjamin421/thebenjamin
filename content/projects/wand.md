@@ -4,7 +4,7 @@ date: 2018-08-16
 draft: false
 description: "A marketplace for house keepers."
 slug: "wand"
-skills: ["Project Management", "Marketing", "Founder", "Software Development", "Marketplaces"]
+skills: ["Project Management", "Marketing", "Founder", "Software Development", "Marketplaces", "Android Development", "iOS Development", "Flutter"]
 showDate: false
 showAuthor: false
 showReadingTime: false

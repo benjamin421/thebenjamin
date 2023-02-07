@@ -4,7 +4,7 @@ date: 2021-09-16
 draft: false
 description: "A nonprofit organization that connects military veterans with new missions in under-resourced communities."
 slug: "the-mission-continues"
-skills: ["Marketing", "Digital Advertizing"]
+skills: ["Marketing", "Digital Advertizing", "Google Analytics", "Google Advertizement"]
 showDate: false
 showAuthor: false
 showReadingTime: false

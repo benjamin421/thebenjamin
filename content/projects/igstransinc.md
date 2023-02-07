@@ -4,7 +4,7 @@ date: 2020-05-10
 draft: false
 description: "A marketplace for freight carriers."
 slug: "igs-trans-inc"
-skills: ["Software Development", "Marketplaces", "UI/UX Design"]
+skills: ["Software Development", "Marketplaces", "UI/UX Design", "Node.js", "React"]
 showDate: false
 showAuthor: false
 showReadingTime: false
