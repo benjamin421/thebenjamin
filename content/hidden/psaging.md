@@ -33,7 +33,7 @@ For those who are still in, we will figure out something like [Venmo](https://ve
 
 The refund policy will be liberal, mostly I want to collect early so we have a budget and can start making purchases.
 
-When you book travel, keep your receipt emails so that we know how much to pay back if we’re really successful with sponsorships.
+When you book travel, keep your receipt emails so that I know how much to pay back if we’re really successful with sponsorships.
 
 **This is important:**
 *I don't want anyone to avoid coming because of the cost. If $500 doesn't fit your budget, message me and we will figure something out. That might look like volunteering for a couch over a bed, taking a lead on meal preparation or letting me name your unborn child.*
