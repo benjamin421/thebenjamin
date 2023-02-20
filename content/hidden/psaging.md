@@ -2,7 +2,7 @@
 title: "PS: Aging 001"
 date: 2023-02-19
 draft: false
-description: "How we can work together"
+description: "A council of the brightest minds and boldest visions who are doing work that will contribute to solving aging."
 slug: "pattern-spotters-aging"
 showDate: false
 showAuthor: false
@@ -16,7 +16,7 @@ More than 8 of you have responded saying that you were in for this event in one 
 ### Here are the details reiterated from my [last note](https://youtu.be/7WDQvH8pMpM):
 
 - **Time:** September 21-24
-- **Location:** Rocky Mountains near Denver, Colorado
+- **Location:** North America (Most likely somewhere in the Rocky Mountains outside Denver for centrality between coasts)
 - **Transportation:** We can coordinate carpools if we agree to land in certain landing times at the airport.
 - **Accommodation Type:** [This is an example](https://www.airbnb.com/rooms/53145005?check_in=2023-09-21&check_out=2023-09-24&guests=1&adults=12&s=67&unique_share_id=540ff5d5-3a05-4db3-8866-4ece3f6eab0b) of the type of AirBNB option I’d like to reserve once I get 8 deposits.
 - **Cost:** ~$500 (Food, Lodging, Event Supplies)
