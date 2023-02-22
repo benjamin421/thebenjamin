@@ -36,6 +36,8 @@ It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com) if you 
     - May 2020 — [Why this St. Louis startup — with a focus on cleaning — sees opportunity from Covid-19](https://www.bizjournals.com/stlouis/news/2020/05/20/st-louis-cleaning-startup-sees-opportunity.html)
     - December 2022 — [Startup that provides software for the cleaning industry lands new owner](https://www.bizjournals.com/stlouis/inno/stories/news/2022/12/13/wand-usa-sells-to-greenaway-ventures.html)
 
+- The Shaun Newman Podcast: [#392 - Benjamin Anderson](https://anchor.fm/shaun-newman/episodes/392---Benjamin-Anderson-e1v4ml5)
+
 - The Vance Crowe Podcast:
 
     - February 2020 - [College dropout, app developer, free-solo climber, philosopher](https://share.transistor.fm/s/0a3af1ba)
