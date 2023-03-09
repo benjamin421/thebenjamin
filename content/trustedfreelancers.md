@@ -16,7 +16,7 @@ A list of people I've worked with and whose skills I would vouch for.
 ---
 ### Architecture, Furniture, General Design:
 
-[Olga Sobkiv](https://alevytsky.work/) — Skilled maker and architect with interests in structural tectonics, fabrication, and studio art.
+[Olga Sobkiv](https://www.olgasobkiv.com/) — Skilled maker and architect with interests in structural tectonics, fabrication, and studio art.
 
 ### Branding, User Experience, Web Design:
 
