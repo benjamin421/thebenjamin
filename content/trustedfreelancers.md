@@ -14,6 +14,10 @@ A list of people I've worked with and whose skills I would vouch for.
 {{< /lead >}}
 
 ---
+### Architecture, Furniture, General Design:
+
+[Olga Sobkiv](https://alevytsky.work/) — Skilled maker and architect with interests in structural tectonics, fabrication, and studio art.
+
 ### Branding, User Experience, Web Design:
 
 [Andriana Levytsky](https://alevytsky.work/) — Artist, illustrator and designer with a focus on print, interaction and visual identities.
