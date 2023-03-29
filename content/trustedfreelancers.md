@@ -20,7 +20,7 @@ A list of people I've worked with and whose skills I would vouch for.
 
 ### Branding, User Experience, Web Design:
 
-[Andriana Levytsky](https://alevytsky.work/) — Artist, illustrator and designer with a focus on print, interaction and visual identities.
+[Andriana Levytsky](https://andrianalevytsky.github.io/work/) — Artist, illustrator and designer with a focus on print, interaction and visual identities.
 
 ### Full Stack Programming:
 
