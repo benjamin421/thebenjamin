@@ -1,5 +1,5 @@
 ---
-title: "PS: Aging 001"
+title: "PS: Aging 001 — Invite"
 date: 2023-02-19
 draft: false
 description: "A council of the brightest minds and boldest visions who are doing work that will contribute to solving aging."
