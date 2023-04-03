@@ -50,7 +50,7 @@ I am planning to be a full participant. I recognize that we need a leader of sor
 
 ### What I need from you next:
 
-- **Deposit:** If you haven’t already, please confirm you want to be here by sending a minimum of $100 over [Venmo](https://venmo.com/u/BenjaminAnderson) or [CashApp](https://cash.app/$Benjamin421). I have received a couple deposits since my last email and even a few of you have paid in full but I am still missing a few. 
+- **Deposit:** If you haven’t already, please confirm you want to be here by sending a minimum of $100 over [Venmo](https://venmo.com/u/BenjaminAnderson) or [CashApp](https://cash.app/$Benjamin421). I have received a couple deposits since my last email and even a few of you have paid in full($500) but I am still missing a few.
 
 - **First Homework:** You have all been included on [a link to a Google Doc](https://docs.google.com/document/d/1m0eJdgQpISvReAU6Q9P6S4vJDF1GqHdafwHJK9NnuzA/edit?usp=sharing).
 Find your name and answer the following 3 questions due May 31:
