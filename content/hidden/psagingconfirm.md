@@ -35,7 +35,7 @@ I am working on an itinerary, and will have it available when I send you a packe
 **Location:** 
 
 - Pending final selection from [this list](https://www.airbnb.com/wishlists/v/1172100636?s=67&unique_share_id=1ca11a72-d232-4e77-9ecc-69e2f9fef543), exploring additional options.
-- *(Mainly trying to find a place where I can get a piano on site for Alex Trapp)*
+- *(Main roadblock is I'm trying to find a place where I can get a piano on site for Alex Trapp)*
 - Use [this sheet](https://docs.google.com/spreadsheets/d/15p0svrLiixVvnrrS3YebD6nmagRNjoWvbGjK8xW_T5c/edit?usp=sharing) to coordinate carpooling from the airport. 
 
 ### A note about my role at this retreat:
