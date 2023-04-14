@@ -19,6 +19,8 @@ showPagination: true
 Last updated — July 2022 | Aggregating corrolary research to show the links of bioelectricity to known facts about aging. 
 {{< /lead >}}
 
+*This literature review has been published as a [preprint on OSF](https://osf.io/xjfmt/). | April 2, 2023*
+
 ## Overview
 
 Information presented here together suggests that bioelectricity and moreover biochemical and biomechanical gradients may play a causal role in the whole organism aging process. 
