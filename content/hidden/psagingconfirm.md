@@ -13,7 +13,7 @@ showEdit: false
 The retreat roster has been finalized and you are one of the 12 people that will be attending Pattern Spotters: Aging from September 22-24 at a TDB location ~1 hour outside Denver, Colorado. 
 {{< /lead >}}
 
-Below is an image of all of the people that will be attending along with you. There are 2 hot seats open for confirmations that need more time to give a final verdict on their ability to attend. 
+Below is an image of all of the people that will be attending along with you. There is 1 hot seat open for a confirmation that needs more time to give a final verdict on their ability to attend. 
 
 ![Image of pattern spotters aging roster](/img/roster.png)
 
