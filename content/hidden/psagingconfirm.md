@@ -15,7 +15,7 @@ The retreat roster has been finalized and you are one of the 12 people that will
 
 Below is an image of all of the people that will be attending along with you. There are 2 hot seats open for confirmations that need more time to give a final verdict on their ability to attend. 
 
-![Image of pattern spotters aging roster](/img/roster1.png)
+![Image of pattern spotters aging roster](/img/roster.png)
 
 I am working on an itinerary, and will have it available when I send you a packet and some homework by the end of May. I will be reaching out to some of you about leading sessions during the event.
 
