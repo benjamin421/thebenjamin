@@ -35,7 +35,7 @@ I am working on an itinerary, and will have it available when I send you a packe
 **Location:** 
 
 - Location: Winter Park, Colorado
-- [View the Listing](https://www.airbnb.com/rooms/32846947?guests=1&adults=1&s=67&unique_share_id=908758e5-946d-43ee-bed9-6d72f3cabeb1)
+- [View the Listing](https://www.airbnb.com/rooms/32846947?guests=1&adults=1&s=67&unique_share_id=908758e5-946d-43ee-bed9-6d72f3cabeb1).
 - Use [this sheet](https://docs.google.com/spreadsheets/d/15p0svrLiixVvnrrS3YebD6nmagRNjoWvbGjK8xW_T5c/edit?usp=sharing) to coordinate carpooling from the airport. 
 
 ### A note about my role at this retreat:
