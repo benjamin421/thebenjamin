@@ -10,7 +10,7 @@ showReadingTime: false
 showEdit: false
 ---
 {{< lead >}}
-The retreat roster has been finalized and you are one of the 12 people that will be attending Pattern Spotters: Aging from September 22-24 at a TDB location ~1 hour outside Denver, Colorado. 
+The retreat roster has been finalized and you are one of the 15 people that will be attending Pattern Spotters: Aging from September 22-24 at a TDB location ~1 hour outside Denver, Colorado. 
 {{< /lead >}}
 
 Below is an image of all of the people that will be attending along with you. There is 1 hot seat open for a confirmation that needs more time to give a final verdict on their ability to attend. 
@@ -34,8 +34,8 @@ I am working on an itinerary, and will have it available when I send you a packe
 
 **Location:** 
 
-- Pending final selection from [this list](https://www.airbnb.com/wishlists/v/1172100636?s=67&unique_share_id=1ca11a72-d232-4e77-9ecc-69e2f9fef543), exploring additional options.
-- *(Main roadblock is I'm trying to find a place where I can get a piano on site for Alex Trapp)*
+- Location: Winter Park, Colorado
+- [View the Listing](https://www.airbnb.com/rooms/32846947?guests=1&adults=1&s=67&unique_share_id=908758e5-946d-43ee-bed9-6d72f3cabeb1)
 - Use [this sheet](https://docs.google.com/spreadsheets/d/15p0svrLiixVvnrrS3YebD6nmagRNjoWvbGjK8xW_T5c/edit?usp=sharing) to coordinate carpooling from the airport. 
 
 ### A note about my role at this retreat:
