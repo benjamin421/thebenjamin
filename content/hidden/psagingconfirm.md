@@ -55,7 +55,7 @@ I am planning to be a full participant. I recognize that we need a leader of sor
 Find your name and answer the following 3 questions due May 31:
     - **Write a biography.** (400 words) This biography should include a small amount about your family, education, why you live where you do and describe how you spend most of your time.
     - **Give us a "photograph" of your personality.** (100 words) This should help us understand how you see yourself.
-    -**Tell us what you are currently working on and how it contributes to solving the aging problem.** (100 words) This will give everyone some background on each other’s research.
+    - **Tell us what you are currently working on.** (100 words) This will give everyone some background on each other’s work.
     - *This doc has restricted access available only at the email address I have for you, if you have trouble logging in, [write me an email](mailto:me@benjaminbanderson.com) and I will help work something out. I have filled my biography out using the word counts as an example.*
 
 I’ll be back again with an update including exact address, a tighter schedule, and more in May. I look forward to seeing some of you in either SF or Montenegro between now and then. 
