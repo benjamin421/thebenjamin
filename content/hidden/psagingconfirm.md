@@ -15,7 +15,7 @@ The retreat roster has been finalized and you are one of the 15 people that will
 
 Below is an image of all of the people that will be attending along with you. There is 1 hot seat open for a confirmation that needs more time to give a final verdict on their ability to attend. 
 
-![Image of pattern spotters aging roster](/img/roster.png)
+![Image of pattern spotters aging roster](/img/roster1.png)
 
 I am working on an itinerary, and will have it available when I send you a packet and some homework by the end of May. I will be reaching out to some of you about leading sessions during the event.
 
@@ -34,8 +34,7 @@ I am working on an itinerary, and will have it available when I send you a packe
 
 **Location:** 
 
-- Location: Winter Park, Colorado
-- [View the Listing](https://www.airbnb.com/rooms/32846947?guests=1&adults=1&s=67&unique_share_id=908758e5-946d-43ee-bed9-6d72f3cabeb1).
+- Location: Winter Park, Colorado | [View the Listing.](https://www.airbnb.com/rooms/32846947?guests=1&adults=1&s=67&unique_share_id=908758e5-946d-43ee-bed9-6d72f3cabeb1)
 - Use [this sheet](https://docs.google.com/spreadsheets/d/15p0svrLiixVvnrrS3YebD6nmagRNjoWvbGjK8xW_T5c/edit?usp=sharing) to coordinate carpooling from the airport. 
 
 ### A note about my role at this retreat:
@@ -56,7 +55,7 @@ I am planning to be a full participant. I recognize that we need a leader of sor
 Find your name and answer the following 3 questions due May 31:
     - **Write a biography.** (400 words) This biography should include a small amount about your family, education, why you live where you do and describe how you spend most of your time.
     - **Give us a "photograph" of your personality.** (100 words) This should help us understand how you see yourself.
-    - T**ell us what you are currently working on and how it contributes to solving the aging problem.** (100 words) This will give everyone some background on each other’s research.
+    -**Tell us what you are currently working on and how it contributes to solving the aging problem.** (100 words) This will give everyone some background on each other’s research.
     - *This doc has restricted access available only at the email address I have for you, if you have trouble logging in, [write me an email](mailto:me@benjaminbanderson.com) and I will help work something out. I have filled my biography out using the word counts as an example.*
 
 I’ll be back again with an update including exact address, a tighter schedule, and more in May. I look forward to seeing some of you in either SF or Montenegro between now and then. 
