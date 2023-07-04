@@ -16,19 +16,16 @@ showPagination: true
 ---
 
 {{< lead >}}
-Last updated — July 2022 | Aggregating corrolary research to show the links of bioelectricity to known facts about aging. 
+Last updated — June 2023 | Aggregating research to demonstrate bioelectricity's role in the aging process. 
 {{< /lead >}}
 
-*This literature review has been published as a [preprint on OSF](https://osf.io/xjfmt/). | April 2, 2023*
+*This work has been put out as a peer reviewed publication that is now live [here](https://www.liebertpub.com/doi/full/10.1089/bioe.2023.0013). | June 19, 2023*
 
 ## Overview
 
 Information presented here together suggests that bioelectricity and moreover biochemical and biomechanical gradients may play a causal role in the whole organism aging process. 
 
-At present, this is simply a series of block texts copied from various papers and kept here for reference, however in time, I plan to work this into a comprehensive meta analysis making my case for this relationship between aging and bioelectricity. 
-
-I am not the first to draw this corrolation. For a published review on these ideas, I would recommend [this article](https://www.frontiersin.org/articles/10.3389/fcell.2018.00021/full). Here however, I aim deeper and farther. 
-
+At present, this is simply a series of block texts copied from various papers and kept here for reference, however in time, I plan to work this into a comprehensive meta analysis making my case for this relationship between aging and bioelectricity. — **_Completed, see note above._**
 
 ## Definitions / Concepts
 ### _Bioelectrical coupling in multicellular domains regulated by gap junctions: A conceptual approach_[^1]
