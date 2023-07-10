@@ -21,6 +21,8 @@ Last updated — June 2023 | Aggregating research to demonstrate bioelectricity'
 
 *This work has been put out as a peer reviewed publication that is now live [here](https://www.liebertpub.com/doi/full/10.1089/bioe.2023.0013). | June 19, 2023*
 
+*You can read the ungated preprint [here](https://osf.io/xjfmt/). | April 2, 2023*
+
 ## Overview
 
 Information presented here together suggests that bioelectricity and moreover biochemical and biomechanical gradients may play a causal role in the whole organism aging process. 
