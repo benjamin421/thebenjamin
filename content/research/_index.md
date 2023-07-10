@@ -17,4 +17,6 @@ This section contains a brief list of research directions that I am currently ex
 
 If you'd like to check out what I'm exploring by subject, you can do so [here]({{< ref "subjects" >}}).
 
+Peer reviwed research can be found [here](https://orcid.org/0000-0001-6213-1872). 
+
 ---
