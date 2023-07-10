@@ -22,7 +22,7 @@ Last updated — September 2022 | Using the free energy principle to denote the 
 ## Introduciton
 I am a biomedical engineering dropout accredited only by discipline and experience, focusing on the biology of aging in my spare time. I have been fortunate enough to pressure test these ideas through conversations in person with the top aging researchers in the field at the inaugural [GRC Systems Aging Conference](https://www.forbes.com/sites/alexzhavoronkov/2022/06/29/a-week-at-the-most-secretive-conference-on-aging/?sh=3ad11077201d) in May, 2022. 
 
-It is for this reason that I am taking the next step to pressure test the idea here. 
+It is for this reason that I am taking the next step to put forward these ideas here. 
 
 ---
 
