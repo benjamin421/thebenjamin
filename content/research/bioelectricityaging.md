@@ -2,7 +2,7 @@
 title: "Bioelectricity as a Causal Factor in Aging"
 date: 2022-07-23
 draft: false
-description: "Aggregating corrolary research to show the links of bioelectricity to known facts about aging."
+description: "Aggregating research to demonstrate bioelectricity's role in the aging process."
 slug: "bioelectricity-causal-factor-aging"
 subjects: ["Bioelectricity", "Aging", "Epigenetics"]
 showDate: false
