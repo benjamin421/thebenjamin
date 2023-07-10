@@ -20,13 +20,9 @@ Last updated — September 2022 | Using the free energy principle to denote the 
 {{< /lead >}}
 
 ## Introduciton
-I have been captured by ideas in aging and longevity reseach for as long as I can remember. In high school outside the debate classroom, I would rally peers to join me for discussions on heretical ideas that seemed far beyond reach, but to which I may have caught a recent article hinting at the purported possibility of the idea. We talked about ideas from Cold Fusion, to Witricity, Myostatin treatments and more. None captured my attention more however than those discussions that covered the subject of radical longevity and the aging process. 
-
-Over time, I've come to a conclusion that I find to be unique based on my conversations with others in this field. 
-
 I am a biomedical engineering dropout accredited only by discipline and experience, focusing on the biology of aging in my spare time. I have been fortunate enough to pressure test these ideas through conversations in person with the top aging researchers in the field at the inaugural [GRC Systems Aging Conference](https://www.forbes.com/sites/alexzhavoronkov/2022/06/29/a-week-at-the-most-secretive-conference-on-aging/?sh=3ad11077201d) in May, 2022. 
 
-When bringing this concept up, the top comments I recieved were that is was viable and an unexplored direction, however given the fact that it was relatively unexplored, conversations could only go so far. It is for this reason that I am taking the next step to pressure test the idea here. 
+It is for this reason that I am taking the next step to pressure test the idea here. 
 
 ---
 
