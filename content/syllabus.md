@@ -14,13 +14,13 @@ showEdit: false
 Last Updated: July 2023
 {{< /lead >}}
 
-The following is a compilation of the resources I have studied to learn what I've felt necessary to guide my [research]({{< ref "research" >}}). The subjects covered here span biology, physics and the more narrow disciplines inbetween. 
+The following is a compilation of the resources I have used to learn what I've felt necessary to guide my [research]({{< ref "research" >}}). The subjects covered here span biology, physics and the more narrow disciplines inbetween. 
 
 Everything here is limited to what I've consumed. I wouldn’t recommend anything that I haven’t personally spent time with. That being said, there are a **ton** of great resources out there these days, so this list is far from exhaustive. 
 
 I didn't include any 'popular science' books here, but if you'd like to browse the higher level things I've read, you can check out my book list [here]({{< ref "books" >}}).
 
-If you have questions one any of the below, or want to talk about something here you've read, [send me a note](mailto:me@benjmainbanderson.com).
+If you have questions on any of the below, or want to talk about something here you've read, [send me a note](mailto:me@benjmainbanderson.com).
 
 ## Textbooks
 *In order of what I read.*
@@ -44,5 +44,14 @@ If you are under 18 and can't afford a copy of something you see here, [send me 
 - [Foundations Of Computational And Systems Biology (MIT 7.91J)](https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
 - [Machine Learning A-Z™: AI, Python & R](https://www.udemy.com/course/machinelearning/) 
 - [Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) 
+
+## Communities
+*Great places to ask questions and meet others learning independently.*
+- [DNA Deviants](https://twitter.com/DnaDeviants)
+- [Bits in Bio](https://www.bitsinbio.org/)
+
+## Miscellaneous
+- [The Sheeky Science Show](https://www.youtube.com/@TheSheekeyScienceShow)
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
 [^1]: I struggled with whether or not to include this given that it is more of a 'popular science' read than a textbook. However, there are whole university courses structured around this book and so that let it pass the bar for me. 
