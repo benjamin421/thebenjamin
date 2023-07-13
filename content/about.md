@@ -58,6 +58,8 @@ It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com) if you 
 
 - JackSquared Podcast: [Analyzing Great Art, Free Solo Climbing, And Life](https://www.youtube.com/watch?v=3DHy7GFk6iw)
 
+- Canvas Rebel: [Meet Benjamin Anderson](https://canvasrebel.com/meet-benjamin-anderson/)
+
 - This is Breach: [Lift Off II Residential Experience](https://youtu.be/iJnLIOX_50I?t=309)
 
 - St. Louis Post Dispatch: [SafeT, Inc. Announces 2019 Grant Recipients](https://www.stltoday.com/pr/business/st-louis-based-safet-inc-announces-2019-grant-recipients/article_a4f1c452-e09a-11e9-b853-97fb7d0da59e.html)
