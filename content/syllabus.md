@@ -50,8 +50,14 @@ If you are under 18 and can't afford a copy of something you see here, [send me 
 - [DNA Deviants](https://twitter.com/DnaDeviants)
 - [Bits in Bio](https://www.bitsinbio.org/)
 
+## Tutoring
+*If you have the budget, an hour of a tutor's time can help save you **hours** of independent study to understand a given concept or subject.*
+- I've found [Preply](https://preply.com/) to be a great outlet for finding on-demand tutors for any given subject. Don't let the home page fool you, it's not just for language tutors. I've used it for [physics](https://preply.com/en/online/physics-tutors), [biology](https://preply.com/en/online/biology-tutors), [data science](https://preply.com/en/online/data-tutors) and yes, [Ukranian](https://preply.com/en/tutor/750854). 
+
+- Thank you [Nick Cizek](https://www.linkedin.com/in/ncizek) for the time & support in calculus. 
+
 ## Miscellaneous
 - [The Sheeky Science Show](https://www.youtube.com/@TheSheekeyScienceShow)
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
-[^1]: I struggled with whether or not to include this given that it is more of a 'popular science' read than a textbook. However, there are whole university courses structured around this book and so that let it pass the bar for me. 
+[^1]: I debated whether or not to include this given that it is more of a 'popular science' read than a textbook. However, there are whole university courses structured around this book and so that let it pass the bar for me. 
