@@ -23,7 +23,7 @@ Last updated — July 2023 | I'm building a lab in Saint Louis, MO to run some e
 
 This is a living document. I'm using it to drop general tips and insights I've come across as I'm navigating the process of building out an independent lab to run my own experiments. 
 
-Here's my current [spec sheet](https://docs.google.com/spreadsheets/d/1_U8BmltdECJMfYgyDgldQfdFVstmoHeaHXaW7ajp764/edit?usp=sharing). I'm working my way through acquiring what's on the $50,000 budget sheet currently. 
+Here's my current [spec sheet](https://docs.google.com/spreadsheets/d/1_U8BmltdECJMfYgyDgldQfdFVstmoHeaHXaW7ajp764/edit?usp=sharing). I'm working my way through acquiring what's on the $50,000 budget sheet. 
 
 Many of the below tips have come from conversations with others who've done this in the past. Special thanks to John Schloendorn and Philip Goetz who've provided the bulk of the input. Some of their direct comments have been included in the quote blocks below. 
 
