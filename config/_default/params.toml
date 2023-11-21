@@ -5,13 +5,14 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "mycolors"
+colorScheme = "congo"
  darkMode = "true"
-# darkToggle = false
+#darkToggle = false
 # logo = "assets/img/logo.jpg"
  description = "Disciple of Experience"
 # mainSections = ["section1", "section2"]
 # robots = ""
+
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
@@ -28,6 +29,7 @@ colorScheme = "mycolors"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
+  showTableOfContents = true
   showReadingTime = true
   # sharingLinks = ["facebook", "twitter", "reddit", "linkedin", "email"]
 
@@ -35,6 +37,7 @@ colorScheme = "mycolors"
   showBreadcrumbs = false
   showSummary = false
   groupByYear = true
+ 
 
 [taxonomy]
   showTermCount = true
