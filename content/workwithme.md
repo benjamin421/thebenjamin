@@ -8,6 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
+showTableofContents: false
 ---
 {{< lead >}}
 I simplify complex processes and build resilient systems. 

@@ -8,6 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
+showTableofContents: false
 ---
 {{< lead >}}
 Last updated — July 2022
