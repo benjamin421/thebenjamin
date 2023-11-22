@@ -12,17 +12,17 @@
   --color-neutral-700: 63, 63, 70;
   --color-neutral-800: 39, 39, 42;
   --color-neutral-900: 24, 24, 27;
-  /* Violet */
-  --color-primary-50: 245, 243, 255;
-  --color-primary-100: 237, 233, 254;
-  --color-primary-200: 221, 214, 254;
-  --color-primary-300: 196, 181, 253;
-  --color-primary-400: 167, 139, 250;
-  --color-primary-500: 139, 92, 246;
-  --color-primary-600: 124, 58, 237;
-  --color-primary-700: 109, 40, 217;
-  --color-primary-800: 91, 33, 182;
-  --color-primary-900: 76, 29, 149;
+  /* Blue */
+    --color-primary-50: 0, 145, 234;
+  --color-primary-100: 0, 145, 234;
+  --color-primary-200: 0, 145, 234;
+  --color-primary-300: 0, 145, 234;
+  --color-primary-400: 0, 145, 234;
+  --color-primary-500: 0, 145, 234;
+  --color-primary-600: 0, 145, 234;
+  --color-primary-700: 0, 145, 234;
+  --color-primary-800: 0, 145, 234;
+  --color-primary-900: 0, 145, 234;
   /* Fuchsia */
   --color-secondary-50: 253, 244, 255;
   --color-secondary-100: 250, 232, 255;
