@@ -240,7 +240,7 @@ Use the modern Firefox focus style for all focusable elements.
 */
 
 :-moz-focusring {
-  outline: auto;
+  outline: 1px dotted ButtonText;
 }
 
 /*
@@ -326,6 +326,11 @@ figure,
 p,
 pre {
   margin: 0;
+}
+
+button {
+  background-color: transparent;
+  background-image: none;
 }
 
 fieldset {
@@ -2648,71 +2653,67 @@ body:has(#menu-controller:checked) {
   margin-top: 2rem;
 }
 
-.hover\:scale-125:hover {
-  --tw-scale-x: 1.25;
-  --tw-scale-y: 1.25;
-  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+.hover\:border-primary-400:hover {
+  border-color: var(--color-primary-400);
 }
 
-.hover\:border-primary-300:hover {
-  --tw-border-opacity: 1;
-  border-color: rgba(var(--color-primary-300), var(--tw-border-opacity));
-}
-
-.hover\:\!bg-primary-500:hover {
-  --tw-bg-opacity: 1 !important;
-  background-color: rgba(var(--color-primary-500), var(--tw-bg-opacity)) !important;
-}
-
-.hover\:bg-primary-100:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgba(var(--color-primary-100), var(--tw-bg-opacity));
-}
-
-.hover\:bg-primary-500:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgba(var(--color-primary-500), var(--tw-bg-opacity));
+.hover\:border-primary-500:hover {
+  border-color: var(--color-primary-500);
 }
 
 .hover\:bg-primary-600:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgba(var(--color-primary-600), var(--tw-bg-opacity));
+  background-color: var(--color-primary-600);
 }
 
-.hover\:text-neutral:hover {
-  --tw-text-opacity: 1;
-  color: rgba(var(--color-neutral), var(--tw-text-opacity));
+.hover\:bg-primary-500:hover {
+  background-color: var(--color-primary-500);
 }
 
-.hover\:text-primary-500:hover {
-  --tw-text-opacity: 1;
-  color: rgba(var(--color-primary-500), var(--tw-text-opacity));
-}
-
-.hover\:text-primary-600:hover {
-  --tw-text-opacity: 1;
-  color: rgba(var(--color-primary-600), var(--tw-text-opacity));
+.hover\:\!bg-primary-500:hover {
+  background-color: var(--color-primary-500) !important;
 }
 
 .hover\:text-primary-700:hover {
-  --tw-text-opacity: 1;
-  color: rgba(var(--color-primary-700), var(--tw-text-opacity));
+  color: var(--color-primary-700);
+}
+
+.hover\:text-primary-400:hover {
+  color: var(--color-primary-400);
+}
+
+.hover\:text-primary-500:hover {
+  color: var(--color-primary-500);
+}
+
+.hover\:text-neutral:hover {
+  color: var(--color-neutral);
 }
 
 .hover\:underline:hover {
-  text-decoration-line: underline;
+  text-decoration: underline;
 }
 
-.hover\:decoration-primary-400:hover {
-  text-decoration-color: rgba(var(--color-primary-400), 1);
+.hover\:underline-neutral-300:hover {
+  -webkit-text-decoration-color: var(--color-neutral-300);
+          text-decoration-color: var(--color-neutral-300);
 }
 
-.hover\:decoration-2:hover {
-  text-decoration-thickness: 2px;
+.hover\:underline-primary-300:hover {
+  -webkit-text-decoration-color: var(--color-primary-300);
+          text-decoration-color: var(--color-primary-300);
 }
 
-.hover\:underline-offset-2:hover {
+.hover\:underline-primary-500:hover {
+  -webkit-text-decoration-color: var(--color-primary-500);
+          text-decoration-color: var(--color-primary-500);
+}
+
+.hover\:underline-offset-small:hover {
   text-underline-offset: 2px;
+}
+
+.hover\:underline-thickness-bold:hover {
+  text-decoration-thickness: 2px;
 }
 
 .focus\:translate-y-0:focus {
