@@ -8,7 +8,8 @@ theme = "congo"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-googleAnalytics = "UA-123249489-5"
+
+googleAnalytics = "G-F92NKPYC4B"
 
 title = "Benjamin Anderson"
 # copyright = "Copy, _right?_ :thinking_face:"
