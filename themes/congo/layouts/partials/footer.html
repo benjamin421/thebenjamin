@@ -29,7 +29,6 @@
           {{ .Site.Author.name | markdownify | emojify }}
         {{- end }}
       </p>
-      
     </div>
     {{/* Dark mode toggle */}}
     {{ if and (.Site.Params.darkToggle | default false) (eq (.Site.Params.darkMode | default "auto") "auto") }}
