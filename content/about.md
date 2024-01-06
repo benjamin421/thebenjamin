@@ -14,7 +14,7 @@ showTableofContents: true
 Last updated — January 2024
 {{< /lead >}}
 
-I independently research longevity with a focus on bioelectricity and intercellular communication. In it's most abstract form, these are networks that transmit energy and information, and so more generally, I am interested in intervention strategies in complex systems. 
+I research longevity with a focus on bioelectricity and intercellular communication. In it's most abstract form, these are networks that transmit energy and information, and so more generally, I am interested in intervention strategies in complex systems. 
 
 On a day to day basis, I just refer to this as exercising **agency**. 
 
