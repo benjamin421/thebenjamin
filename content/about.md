@@ -8,25 +8,28 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
-showTableofContents: false
+showTableofContents: true
 ---
 {{< lead >}}
-Last updated — July 2022
+Last updated — January 2024
 {{< /lead >}}
 
-The longer I live, the more I realize everything I've revolved my life around is in one way or another, a adversary against **time**...
+I independently research longevity with a focus on bioelectricity and intercellular communication. In it's most abstract form, these are networks that transmit energy and information, and so more generally, I am interested in intervention strategies in complex systems. 
 
-When I enrolled at Washington University in St. Louis, my audacious goal in studying biomedical engineering was to make a contribution to the field of aging research, thereby extending the amount of **time** we all have to enjoy our lived experience. 
+On a day to day basis, I just refer to this as exercising **agency**. 
 
-I dropped out because I didn't feel that I was getting a good ROI for my education's expense. I instead leaned full forward into building [WAND](https://www.bizjournals.com/stlouis/inno/stories/news/2022/12/13/wand-usa-sells-to-greenaway-ventures.html), an Uber like platform for booking housekeepers. When selling the value of my app to customers, I would pitch it as a way for them to buy back the one thing that they thought they couldn't: **time**. 
+I moved to Saint Louis to study biomedical engineering at Washington University. That didn’t last long. I shifted focus to growing a software platform called Wand that I have since [exited](https://www.bizjournals.com/stlouis/inno/stories/news/2022/12/13/wand-usa-sells-to-greenaway-ventures.html). 
 
-I've went on to build a series of other [marketplace]({{< ref "marketplaces" >}}) platforms, motivated along the way by this same idea, until I wasn't. In 2020, like many other people, I slowed down to consider what was important to me, and where I wanted to be spending my **time**. 
+Along the way, I got involved in a [podcast](https://www.vancecrowe.com/podcast) as an executive producer. This gave me an opportunity to build connections and learn from people I thought were doing the most important work in the world. Using our equipment from the podcast, my partner and I started a business called [Legacy Interviews](https://legacyinterviews.com/). These interviews give future generations the opportunity to understand where they came from in a timeless video and leather-bound autobiography.
 
-I went on a novelty search, taking on new types of [consulting](https://www.articulate.ventures/) work, and getting involved with a [podcast](https://www.vancecrowe.com/podcast) as the executive producer. This latter opportunity put me in contact with many interesting people doing work on the edge of what is known, renewing my interest in research. It also led directly to what I do now, which in short, is helping people come to terms with **time** through something we call a [Legacy Interview](https://legacyinterviews.com/).
+In time I started more rigorously doing the research I initially went to school to study, but independently. I jumped through some of the hoops that most independents don't such as puplishing in peer reviewed journals and presenting at conferences in the space. As my research pursuits began to take more and more time, my partner one day asked me,
+> Ben, would you take it as aggressive or as a relief if I were to offer to buy you out?
 
-In addition to these interviews, I am back to exploring the mechanisms underlying aging. I do this now through independent [research]({{< ref "research" >}}), intersecting my knowledgebase in biology and software to come to novel conclusions about where order and causality reside in chaotic and complex systems. 
+I replied that it would be a relief. The next thing he did was slam the table and say, "Well then let's do that in a way that makes us both feel great!" We did. This gave me the time and resources to lever into the work I was doing in a way I hadn't yet been able to.  
 
-It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com) if you have something for me to explore. 
+My time currently an 80/20 split between this and building a real estate portfolio in Saint Louis, Missouri to maintain **sovereignty**. I also now have a [lab space](https://www.thebenjam.in/research/lab/) and am inviting others to join me in this work through [Aion Biosciences](https://www.aion.bio/). 
+
+It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com).
 
 ---
 ## Appearences
@@ -67,6 +70,24 @@ It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com) if you 
     
 ---
 ## Archive
+
+{{< lead >}}
+Bio written July 2022
+{{< /lead >}}
+
+The longer I live, the more I realize everything I've revolved my life around is in one way or another, a adversary against **time**...
+
+When I enrolled at Washington University in St. Louis, my audacious goal in studying biomedical engineering was to make a contribution to the field of aging research, thereby extending the amount of **time** we all have to enjoy our lived experience. 
+
+I dropped out because I didn't feel that I was getting a good ROI for my education's expense. I instead leaned full forward into building [WAND](https://www.bizjournals.com/stlouis/inno/stories/news/2022/12/13/wand-usa-sells-to-greenaway-ventures.html), an Uber like platform for booking housekeepers. When selling the value of my app to customers, I would pitch it as a way for them to buy back the one thing that they thought they couldn't: **time**. 
+
+I've went on to build a series of other [marketplace]({{< ref "marketplaces" >}}) platforms, motivated along the way by this same idea, until I wasn't. In 2020, like many other people, I slowed down to consider what was important to me, and where I wanted to be spending my **time**. 
+
+I went on a novelty search, taking on new types of [consulting](https://www.articulate.ventures/) work, and getting involved with a [podcast](https://www.vancecrowe.com/podcast) as the executive producer. This latter opportunity put me in contact with many interesting people doing work on the edge of what is known, renewing my interest in research. It also led directly to what I do now, which in short, is helping people come to terms with **time** through something we call a [Legacy Interview](https://legacyinterviews.com/).
+
+In addition to these interviews, I am back to exploring the mechanisms underlying aging. I do this now through independent [research]({{< ref "research" >}}), intersecting my knowledgebase in biology and software to come to novel conclusions about where order and causality reside in chaotic and complex systems. 
+
+It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com) if you have something for me to explore. 
 
 {{< lead >}}
 Bio written August 2021
