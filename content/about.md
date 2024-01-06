@@ -37,6 +37,8 @@ It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com) if you 
     - [Bioelectricity & Aging | ~ 10 minutes](https://www.youtube.com/watch?v=nNNQ-LS2-Uo)
     - [Constructive Criticism in Longevity Space](https://www.youtube.com/watch?v=h0-xUBguJWE)
 
+- The Sheeky Science Show: [Bioelectricity as an longevity intervention](https://www.youtube.com/watch?v=9R5oEdgs86M)
+
 - Forbes: [A Week At The Most Secretive Conference On Aging](https://www.forbes.com/sites/alexzhavoronkov/2022/06/29/a-week-at-the-most-secretive-conference-on-aging/?sh=2a108820201d)
 
 - St. Louis Business Journal: 
@@ -54,10 +56,6 @@ It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com) if you 
     - June 2021 — [Tech CEO on Political Flags, Will nation states survive?](https://share.transistor.fm/s/e7b75f0e)
 
     - Spetember 2021 — [Mimetic Desire, vaccine passports, and voices in your head](https://share.transistor.fm/s/815116bd)
-
-- The Hue Seth Show: [Legacy, Succession Planning & Entrepreneurship](https://www.youtube.com/watch?v=hHPn_4lrZ_g)
-
-- JackSquared Podcast: [Analyzing Great Art, Free Solo Climbing, And Life](https://www.youtube.com/watch?v=3DHy7GFk6iw)
 
 - Canvas Rebel: [Meet Benjamin Anderson](https://canvasrebel.com/meet-benjamin-anderson/)
 
