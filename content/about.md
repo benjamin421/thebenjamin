@@ -27,7 +27,7 @@ In time I started more rigorously doing the research I initially went to school 
 
 I replied that it would be a relief. The next thing he did was slam the table and say, "Well then let's do that in a way that makes us both feel great!" We did. This gave me the time and resources to lever into the work I was doing in a way I hadn't yet been able to.  
 
-My time currently an 80/20 split between this and building a real estate portfolio in Saint Louis, Missouri to maintain **sovereignty**. I also now have a [lab space](https://www.thebenjam.in/research/lab/) and am inviting others to join me in this work through [Aion Biosciences](https://www.aion.bio/). 
+My time is currently an 80/20 split between this and building a real estate portfolio in Saint Louis, Missouri to maintain **sovereignty**. I also now have a [lab space](https://www.thebenjam.in/research/lab/) and am inviting others to join me in this work through [Aion Biosciences](https://www.aion.bio/). 
 
 It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com).
 
