@@ -27,7 +27,7 @@ Somone to pay me $1,000 because I know how to turn the only screw that matters.
 The best way to work with me right now is through 1:1 [consulting]({{< ref "consulting" >}}). 
 Typically for an hour a week or more, I will work with you or your company's decision maker to help come to conclusions about how to move towards a specific objective. Here I am not a laborer, I am a guide. 
 
-[Here's a referral](/Saint%20Louis%20Bank%20Letter.pdf) from the president of a bank and [here's another](/Maxine%20Letter.pdf) from the founder of build-a-bear. 
+[Here's a referral](/Saint%20Louis%20Bank%20Letter.pdf) from the president of a bank and [here's another](/Maxine%20Letter.pdf) from the founder of Build-A-Bear. 
 
 ---
 
