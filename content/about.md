@@ -81,7 +81,7 @@ When I enrolled at Washington University in St. Louis, my audacious goal in stud
 
 I dropped out because I didn't feel that I was getting a good ROI for my education's expense. I instead leaned full forward into building [WAND](https://www.bizjournals.com/stlouis/inno/stories/news/2022/12/13/wand-usa-sells-to-greenaway-ventures.html), an Uber like platform for booking housekeepers. When selling the value of my app to customers, I would pitch it as a way for them to buy back the one thing that they thought they couldn't: **time**. 
 
-I've went on to build a series of other [marketplace]({{< ref "marketplaces" >}}) platforms, motivated along the way by this same idea, until I wasn't. In 2020, like many other people, I slowed down to consider what was important to me, and where I wanted to be spending my **time**. 
+I've went on to build a series of other [marketplace]({{< ref "skills/marketplaces" >}}) platforms, motivated along the way by this same idea, until I wasn't. In 2020, like many other people, I slowed down to consider what was important to me, and where I wanted to be spending my **time**. 
 
 I went on a novelty search, taking on new types of [consulting](https://www.articulate.ventures/) work, and getting involved with a [podcast](https://www.vancecrowe.com/podcast) as the executive producer. This latter opportunity put me in contact with many interesting people doing work on the edge of what is known, renewing my interest in research. It also led directly to what I do now, which in short, is helping people come to terms with **time** through something we call a [Legacy Interview](https://legacyinterviews.com/).
 
