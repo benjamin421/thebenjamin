@@ -54,12 +54,13 @@ The old system is breaking. Let's try something new.
 8) A standard refrigerator for cooling samples may be a cheaper and safer alternative than a refrigerated centrifuge.
     > You don't need more than like 5% accuracy with centrifuge speed, and the digital stuff breaks in shipping, and can be unusable without software.
 9) The Stratagene Robocycler is the best PCR machine out there and is available on eBay for around $150.
-10) Purchase balances for under $500 from Amazon and if you need less than 10 mg, just make a dilution.
-11) > The Thermo e-gel system pays for the cost of the pre-cast gels easily, by being zero-mess and zero-time. You only need the base unit, not the camera. A cell phone can take the image just fine. Again Thermo's iBlot easily returns its consumable cost as time & mess saved, and then some.  Same for pre-cast protein gels. Make sure you understand the difference between DNA & Protein electrophoresis, and put them on the budget separately.
-12) Utilize the [Henderson–Hasselbalch equation](https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation) as a substitute for a pH meter.
-13) Avoid paying for calibration services; instead, purchase a calibration set for scales and pipettes. It is not hard. 
-14) Platforms like Quartzy or LabSpend are recommended for managing reagent and consumable reordering efficiently.
-15) Always procure reagents from quality suppliers. Buying poor quality will just add one more level of complexity to your troubleshooting. 
+10) Save money on an autoclave and buy [this](https://www.amazon.com/gp/product/B0000BYCFU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) instead. 
+11) Purchase balances for under $500 from Amazon and if you need less than 10 mg, just make a dilution.
+12) > The Thermo e-gel system pays for the cost of the pre-cast gels easily, by being zero-mess and zero-time. You only need the base unit, not the camera. A cell phone can take the image just fine. Again Thermo's iBlot easily returns its consumable cost as time & mess saved, and then some.  Same for pre-cast protein gels. Make sure you understand the difference between DNA & Protein electrophoresis, and put them on the budget separately.
+13) Utilize the [Henderson–Hasselbalch equation](https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation) as a substitute for a pH meter.
+14) Avoid paying for calibration services; instead, purchase a calibration set for scales and pipettes. It is not hard. 
+15) Platforms like Quartzy or LabSpend are recommended for managing reagent and consumable reordering efficiently.
+16) Always procure reagents from quality suppliers. Buying poor quality will just add one more level of complexity to your troubleshooting. 
     - People I've been working with seem to trust [New England BioLabs](https://www.neb.com/en-us/) alot so I am ordering from them also. 
     - [Santa Cruz](https://www.scbt.com/home) has been mentioned to me as a less favorable supplier, especially for antibodies.
 
