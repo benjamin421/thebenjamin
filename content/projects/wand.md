@@ -17,7 +17,7 @@ showPagination: true
 A marketplace that connects customers to vetted house keepers. 
 {{< /lead >}}
 
-*Acquired* — The platform that started it all. Wand is an Uber like plaform that connects housekeepers to vetted cleaning professional. I co-founded this app with a good friend, and ran it for about 4 years. At the time of my departure, it was live in Denver, Seattle and St. Louis. Over the years, we built a base of hundreds of cleaning providers and helped customers buy back thousands of hours of time. 
+*Acquired* — The platform that started it all. Wand is an Uber-like platform that connects housekeepers to vetted cleaning professionals. I co-founded this app with a good friend, and ran it for about 4 years. At the time of my departure, it was live in Denver, Seattle and St. Louis. Over the years, we built a base of hundreds of cleaning providers and helped customers buy back thousands of hours of time. 
 
 I departed Wand because over time, I realized that I have more fun building platforms than running them, and also we'd lost a significant portion of revenue on our marketplace model during COVID due to the fact that most of our customer base were Airbnb hosts. Travel stopped, bookings stopped, cleanings stopped. 
 
