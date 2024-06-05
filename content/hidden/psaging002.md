@@ -17,8 +17,8 @@ Many of you have asked me if this is still on within the last few weeks. The ans
 
 - **Time:** September 19-22
 - **Location:** Rocky Mountains outside Denver, Colorado
-- **Transportation:** We can coordinate carpools if we agree to land in certain landing times at the airport.
 - **Accommodation:** [This is the Airbnb](https://www.airbnb.com/rooms/32846947?source_impression_id=p3_1717597416_P3H8dTPnaPK26PnP&check_in=2024-09-19&guests=14&adults=14&check_out=2024-09-22) from last year. I am inclined to stick with this one or am open to looking for a new spot to change it up. 
+- **Transportation:** We can coordinate carpools if we agree to land in certain landing times at the airport. I will also lead another roadtrip carpool from St. Louis. First come, first serve. This was a great experience for Heye, George, Iosif and I last year. 
 - **Cost:** ~$500 (Food, Lodging, Event Supplies)
 
 ## Invite
