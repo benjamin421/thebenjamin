@@ -10,12 +10,12 @@ showReadingTime: false
 showEdit: false
 ---
 {{< lead >}}
-The retreat roster has been finalized and you are one of the 15 people that will be attending Pattern Spotters: Aging from September 22-24 in Winter Park, Colorado. 
+The retreat roster has been finalized for Pattern Spotters: Aging from September 22-24 in Winter Park, Colorado. 
 {{< /lead >}}
 
-Below is an image of all of the people that will be attending along with you. There are 2 hot seats open for confirmations that need more time to give a final verdict on their ability to attend. 
+Below is an image of all of the people that will be attending along with you. 
 
-![Image of pattern spotters aging roster](/img/rosterr.png)
+![Image of pattern spotters aging roster](/img/roster.png)
 
 I am working on an itinerary, and will have it available when I send you a packet and some homework by the end of May. I will be reaching out to some of you about leading sessions during the event.
 
