@@ -13,7 +13,7 @@ showEdit: false
 The retreat roster has been finalized for Pattern Spotters: Aging 002. 14 of us will come together from September 19-22 in Winter Park, Colorado. 
 {{< /lead >}}
 
-Below is an image of all of the people that will be attending along with you. 3 hotseats are open for folks who need more time to confirm. 
+Below is an image of all of the people that will be attending along with you. 2 hot seats are open for folks who need more time to confirm. 
 
 ![Image of pattern spotters aging roster](/img/roster2.png)
 
