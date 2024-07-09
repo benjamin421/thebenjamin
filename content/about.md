@@ -34,8 +34,6 @@ It's **time** to build. [Send an email](mailto:me@benjaminbanderson.com).
 ---
 ## Appearences
 
-- Zuzalu's Longevity Biotech Conference: [Bioelectricity & Aging | ~20 minutes](https://zuzalu.streameth.org/session/660)
-
 - Foresight Institute's Longevity Frontiers Workshop, 2023: 
     - [Bioelectricity & Aging | ~ 10 minutes](https://www.youtube.com/watch?v=nNNQ-LS2-Uo)
     - [Constructive Criticism in Longevity Space](https://www.youtube.com/watch?v=h0-xUBguJWE)
