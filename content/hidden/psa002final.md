@@ -21,7 +21,9 @@ I'm writing to share a high level schedule for the weekend so that everyone has 
 
 _***I'm still counting everyone in this thread who's said they are in as 'in'. If anything on your end has changed and you can no longer attend, no stress, but please let me know ASAP as I'll be starting to purchase other items to prepare depending on headcount.***_
 
-There's a few things regarding this I'd like to cover as housekeeping items since we're nearing the event. 
+If you haven’t already, please confirm you want to be here by sending a $250 deposit over [Venmo](https://venmo.com/u/BenjaminAnderson), [CashApp](https://cash.app/$Benjamin421) or [PayPal](https://www.paypal.me/benanderson421). All money goes towards splitting expenses, I do not profit off of this. Since we have more people this year, we will figure out the remainder after the event. Things will be cheaper than last year. Not expecting the total to be over $400. 
+
+With that out of the way - a few more things to cover as housekeeping items since we're nearing the event:
 
 ### Food
 You'll see that on Friday and Saturday before dinner, I have blocks labeled 'Cook Together'. Heye has graciously offered to take a lead on meal prep and coordination for the weekend, however to give him a helping hand pulling off our 2 biggest feasts, we're going to take that as an opportunity to cook as a team as its own social activity before we break bread together. 
@@ -33,7 +35,7 @@ I will have a car that can pick-up 4 additional passengers and am willing to lea
 
 ### Homework
 - Fill out your member sheet for the event [here](https://docs.google.com/document/d/1HFqFOA9Q42uZhl-PaUsKCIqI2TvFFd695VfMMcSKv9c/edit?usp=sharing) so that we can all know and look forward to meeting each other at the event.  
-- Reflect on what you want out of this event, who you want to learn from, and how you would articulate your long term intentions as opposed to what you are working on *right now*. **What is something that you know yourself to be capable of that you are reluctant to tell others?** This is the place to answer that question with full conviction. 
+- Reflect on what you want out of this event, who you want to learn from, and how you would articulate your long term intentions as opposed to what you are working on *right now*. **What is something that you know yourself to be capable of that you are reluctant to tell others?** This is the place to speak these truths without hesitation.
 
 I am deeply looking forward to this, and most excited to see those who will be here develop connections that will effect our lives after the event. 
 
