@@ -19,17 +19,22 @@ This list is far from exhaustive.
 If you have questions on any of the below, or want more specific recomendations, [send me a note](mailto:me@benjmainbanderson.com).
 
 ## Activities
-All of our museums are free. The Saint Louis Art Museum is my favorite. I go by once at least once a month, and I live here. Every Friday, the paid exhibitions are also free.
+### Museums
+All of our museums are free. The Saint Louis Art Museum is my favorite. I go by once at least once a month, and I live here. Every Friday, the paid exhibitions are also free. Plus if you go, you get to see Art Hill and the coolest statue in the city of our patron Saint. 
 
 The Science Museum is great but more for kids. 
 
 Skip the History Museum unless you have extra time or are a history buff, instead, go checkout our Zoo, which is world class. The penguin house is my favorite part. Nowhere else I've ever been are you able to get < 1ft from probably a dozen different species of penguin. 
 
-If you like graffiti art, we have a unique walking path called Mural Mile which as the name indicates, is a mile long stretch of flood wall along the Mississippi River which consists of a number of different graffiti art displays along the path. The only other thing like it I've ever been to is the stetch of graffiti art on the Berlin wall in Germany. 
-
 The City Museum is actually insane. It's more fun with kids, I wouldn't necessarily recommend it for adults traveling solo as a priority, but they do have [grown ups only](https://citymuseum.org/accordion/for-adults/) event programming that can be very fun. A unique date night experience. 
 
+If you like graffiti art, we have a unique walking path called Mural Mile which as the name indicates, is a mile long stretch of flood wall along the Mississippi River which consists of a number of different graffiti art displays along the path. The only other thing like it I've ever been to is the stetch of graffiti art on the Berlin wall in Germany. 
+
+### Flowers
 Botanical Gardens are a hit depending on the time of year. Even in winter that have a unique display of glass art that comes around seasonaly and in the summer for a stretch they do free concerts every Wednesday.
+
+### Chess
+Do you like Chess? We're the chess capital of the United States. You can go see the world's biggest chess piece, the world chess hall of fame, and a chess club with grandmasters on staff all on the same street in the Central West End. 
 
 ### Parks Parks Parks
 The city has a ton of great parks. I am biased for my closest, Fountain Park, but as far as the major ones go for a first visit:
@@ -96,3 +101,26 @@ For annecdotal evidence, [here is a leading Reddit](https://www.reddit.com/r/Sam
 
 My own perspective is that in recent years, I feel less safe everytime I travel to Denver and San Franciso than I ever do at home here, and [I live in the 'bad' part of town](https://www.consciousrepository.com/p/lessons-from-urban-homesteading). 
 
+## Scavenger Hunt
+
+If you run out of time and want to check out some more Saint Louis easter eggs, try and find each of the below:
+- [A Basement Turtle](https://blog.stlouisbank.com/basement-turtles/)
+- [A mound of dirt that rivals the pyramids](https://blog.stlouisbank.com/the-real-name-of-cahokia-mounds/)
+- [A fat man on a horse](https://blog.stlouisbank.com/a-tale-of-two-horsemen/)
+- [Ratfag](https://blog.stlouisbank.com/could-you-identify-st-louis-by-its-graffiti-alone/)
+- [A beast that devour's men](https://blog.stlouisbank.com/the-beast-that-devours-men/)
+- [Beer Caves](https://blog.stlouisbank.com/the-lager-caves-of-saint-louis/)
+- [A bridge built for an elephant](https://blog.stlouisbank.com/why-did-st-louis-make-an-elephant-cross-the-bridge/)
+- [Tornado wreckage](https://blog.stlouisbank.com/the-tornado-that-rebuilt-lafayette-park/)
+- [Three maidens of American Rail](https://blog.stlouisbank.com/the-three-maidens-of-the-american-rail/)
+- [The world's biggest gas station sign](https://blog.stlouisbank.com/wp-content/uploads/2022/01/2022-scaled.jpg)
+
+The above blogs were written by a buddy of mine named Tanner Thiessen. Before [Legacy Interviews](https://www.legacyinterviews.com/), my business partner Vance and I were contracted by a local bank to increase their brand awareness in the region. Our strategy was to find things with good search volume people were searching about in Saint Louis, and write the authoritative post answering that question or telling that story. 
+
+In short, it was a blog strategy based around creating content people actually wanted to read. We quantified something like $80,000 in traffic value that we were able to deliver organically. The cost we charged for the work was less than half of that. 
+
+I say this not only to subtly shill our services, but because it was a year of work that made me really grow to appreciate our region and sell others on what Saint Louis has to offer. 
+
+I hope you've found this valuable. This list is far from exhaustive. 
+
+If you have questions on any of the above, or want more specific recomendations, [send me a note](mailto:me@benjmainbanderson.com).
