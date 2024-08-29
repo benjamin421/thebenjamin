@@ -31,7 +31,7 @@ The City Museum is actually insane. It's more fun with kids, I wouldn't necessar
 If you like graffiti art, we have a unique walking path called Mural Mile which as the name indicates, is a mile long stretch of flood wall along the Mississippi River which consists of a number of different graffiti art displays along the path. The only other thing like it I've ever been to is the stetch of graffiti art on the Berlin wall in Germany. 
 
 ### Flowers
-Botanical Gardens are a hit depending on the time of year. Even in winter that have a unique display of glass art that comes around seasonaly and in the summer for a stretch they do free concerts every Wednesday.
+Our Botanical Gardens is a hit depending on the time of year. Even in winter that have a unique display of glass art that comes around seasonaly and in the summer for a stretch they do free concerts every Wednesday.
 
 ### Chess
 Do you like Chess? We're the chess capital of the United States. You can go see the world's biggest chess piece, the world chess hall of fame, and a chess club with grandmasters on staff all on the same street in the Central West End. 
@@ -67,7 +67,7 @@ See an extended list [here](https://www.google.com/maps/d/u/1/edit?mid=1iq8ZkZG8
 ## Sports
 As a passive sports fan at best, I don't have much to say here. Go Cardinals! We have the Blue's Hockey team, I prefer that to baseball. 
 
-A few years ago, the Rams left to LA. This led to a lawsuit filed by the city since there was a bunch of money poured into infrustructure for the Ram's by the city and they left before the end of their contract. We ended up getting [$790 million in the settlement](https://www.nfl.com/news/790m-settlement-reached-in-lawsuit-over-rams-st-louis-departure) and used a good portion of that to build a top of the line new soccer stadium in the heart of downtown. 
+A few years ago, the Rams left to LA. This led to a lawsuit filed by the city since there was a bunch of money poured into infrustructure for the Ram's by the city and they left before the end of their contract. We ended up getting [$790 million in the settlement](https://www.nfl.com/news/790m-settlement-reached-in-lawsuit-over-rams-st-louis-departure) and used a good portion of that to build a new top of the line soccer stadium in the heart of downtown. 
 
 This is my favorite sport to go watch if I go out at all, but there is so much demand, tickets are still quite expensive. 
 
@@ -87,7 +87,7 @@ The Central West End all the way. Whenever I know someone's coming to town, I re
 - Downtown - uuuhhhhhh
 
 ### A note about crime
-In 1876, Saint Louis City elected to separate from the county. Sort of like Brexit. This is where the hub of commerce was happening and the city wanted to break-off and direct all of it's tax revenues into growth internally vs amortizing them over infrustructure in the County. This was great until it wasn't. Two major factors eventually led to the decline of Saint Louis:
+In 1876, Saint Louis City elected to separate from the county. Sort of like Brexit. This is where the hub of commerce was happening and the city wanted to break-off and direct all of it's tax revenues into growth internally vs amortizing them over infrustructure in the County. This was great until it wasn't. Two major factors eventually led to the decline of Saint Louis City's poputation:
 1) Manufacturing, textiles and other major industries left the region for more cheaper headquarters or overseas
 2) The decision by to make Chicago the nexus for all central rail transit in the United States. 
 
