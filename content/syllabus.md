@@ -20,7 +20,7 @@ Everything here is limited to what I've consumed. I wouldn’t recommend anythin
 
 I didn't include any 'popular science' books here, but if you'd like to browse the higher level things I've read, you can check out my book list [here]({{< ref "books" >}}).
 
-If you have questions on any of the below, or want to talk about something here you've read, [send me a note](mailto:me@benjmainbanderson.com).
+If you have questions on any of the below, or want to talk about something here you've read, [send me a note](mailto:me@benjaminbanderson.com).
 
 ## Textbooks
 *In order of what I read.*

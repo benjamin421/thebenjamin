@@ -41,7 +41,7 @@ View All Projects
 
 --- 
 
-For all other inquiries, let me know your screw [here](mailto:me@benjmaminbanderson.com). 
+For all other inquiries, let me know your screw [here](mailto:me@benjaminbanderson.com). 
 
 If you're looking for a skillset that doesn't map to what I've outlined here, [this is a list of freelancers I trust.]({{< ref "trustedfreelancers" >}}) 
 

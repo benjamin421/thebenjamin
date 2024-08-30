@@ -35,6 +35,6 @@ A list of people I've worked with and whose skills I would vouch for.
 
 ---
 
-Here, I've only listed people with websites to pitch themselves. If you're looking for a skill-set that isn't listed above, [send me a note](mailto:me@benjmaminbanderson.com); chances are I know someone in my network. 
+Here, I've only listed people with websites to pitch themselves. If you're looking for a skill-set that isn't listed above, [send me a note](mailto:me@benjaminbanderson.com); chances are I know someone in my network. 
 
 
