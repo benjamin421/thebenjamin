@@ -1,8 +1,8 @@
 ---
-title: "Saint Louis Recomendations"
+title: "Saint Louis Recommendation"
 date: 2024-07-15
 draft: false
-description: "So you're coming to Saint Louis? Here are my recomendations for activities, food and more."
+description: "So you're coming to Saint Louis? Here are my recommendations for activities, food and more."
 slug: "saint-louis"
 showDate: false
 showAuthor: false
@@ -11,12 +11,12 @@ showEdit: false
 ---
 
 {{< lead >}}
-So you're coming to Saint Louis? Here are my recomendations for activities, food and more.
+So you're coming to Saint Louis? Here are my recommendations for activities, food and more.
 {{< /lead >}}
 
 This list is far from exhaustive. 
 
-If you have questions on any of the below, or want more specific recomendations, [send me a note](mailto:me@benjaminbanderson.com).
+If you have questions on any of the below, or want more specific recommendations, [send me a note](mailto:me@benjaminbanderson.com).
 
 ## Activities
 ### Museums
@@ -123,4 +123,4 @@ I say this not only to subtly shill our services, but because it was a year of w
 
 I hope you've found this valuable. This list is far from exhaustive. 
 
-If you have questions on any of the above, or want more specific recomendations, [send me a note](mailto:me@benjaminbanderson.com).
+If you have questions on any of the above, or want more specific recommendations, [send me a note](mailto:me@benjaminbanderson.com).
