@@ -33,6 +33,7 @@ If you have questions on any of the below, or want to talk about something here 
 - [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) [^1]
 - [The Entrepreneur’s Guide to a Biotech Startup](https://www.goodreads.com/book/show/58777063-the-entrepreneur-s-guide-to-a-biotech-startup)
 - [Biological Physics: Energy, Information, Life](https://www.goodreads.com/book/show/229423.Biological_Physics)
+- [Systems Medicine: Physiological Circuits and the Dynamics of Disease](https://www.goodreads.com/book/show/125381501-systems-medicine)
 
 Many of the above textbooks are expensive, but you can find free PDFs online in places like the [Internet Archive](https://archive.org/). 
 
