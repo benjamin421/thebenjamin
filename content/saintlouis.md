@@ -1,5 +1,5 @@
 ---
-title: "Saint Louis Recommendation"
+title: "Saint Louis Recommendations"
 date: 2024-07-15
 draft: false
 description: "So you're coming to Saint Louis? Here are my recommendations for activities, food and more."
