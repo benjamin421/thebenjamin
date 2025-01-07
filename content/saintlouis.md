@@ -73,7 +73,7 @@ This is my favorite sport to go watch if I go out at all, but there is so much d
 
 ## Neighborhoods
 ### Where to Stay
-The Central West End all the way. Whenever I know someone's coming to town, I recommend staying in once of the hotels here, either the [Chase Park Plaza](https://www.sonesta.com/royal-sonesta/mo/st-louis/chase-park-plaza-royal-sonesta-st-louis) or the [AC Hotel by Marriott](https://www.marriott.com/en-us/hotels/stlaw-ac-hotel-st-louis-central-west-end/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) depending on vibe and budget preferences. Even if you aren't staying at The Chase, it is worth a walk through. Come in at the side door off Maryland Ave and make your way through to the exit door on Lindell. 
+The Central West End all the way. Whenever I know someone's coming to town, I recommend staying in one of the hotels here, either the [Chase Park Plaza](https://www.sonesta.com/royal-sonesta/mo/st-louis/chase-park-plaza-royal-sonesta-st-louis) or the [AC Hotel by Marriott](https://www.marriott.com/en-us/hotels/stlaw-ac-hotel-st-louis-central-west-end/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) depending on vibe and budget preferences. Even if you aren't staying at The Chase, it is worth a walk through. Come in at the side door off Maryland Ave and make your way through to the exit door on Lindell. 
 
 ### Vibe Check
 - Central West End - All around best
