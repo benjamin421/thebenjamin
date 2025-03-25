@@ -21,7 +21,7 @@ Last updated — June 2023 | Aggregating research to demonstrate bioelectricity'
 
 *This work has been put out as a peer reviewed publication that is now live [here](https://www.liebertpub.com/doi/full/10.1089/bioe.2023.0013). | June 19, 2023*
 
-*You can read the ungated preprint [here](https://osf.io/xjfmt/). | April 2, 2023*
+*You can read the ungated preprint [here](/bioelectricityaging.pdf). | April 2, 2023*
 
 ## Overview
 
@@ -45,7 +45,7 @@ At present, this is simply a series of block texts copied from various papers an
 
 >For example, the notion of (minimization of)a free energy gradient, which originated in thermodynamics, can be used to study biological systems such as cell movement or brain dynamics.
 	
->The free energy principle starts from a simple evolutionary consideration: in order to survive, animals need to occupy a restricted (relatively rare) set of ‘good states’ that essentially define their evolutionary niche (e.g. places wherethey can find food) and avoid the others (e.g. underwaterfor a terrestrial animal). To this aim, animal brains are optimized to process environmental statistics and guide the animal towards these ‘good states’, which is done by using an error-correction mechanism to minimize a distance measure (prediction error or surprise) between the current sensed state and the desired good states.
+>The free energy principle starts from a simple evolutionary consideration: in order to survive, animals need to occupy a restricted (relatively rare) set of 'good states' that essentially define their evolutionary niche (e.g. places wherethey can find food) and avoid the others (e.g. underwaterfor a terrestrial animal). To this aim, animal brains are optimized to process environmental statistics and guide the animal towards these 'good states', which is done by using an error-correction mechanism to minimize a distance measure (prediction error or surprise) between the current sensed state and the desired good states.
 ### _A Meta-Analysis of Bioelectric Data in Cancer, Embryogenesis, and Regeneration_[^3]
 
 >Remarkably, when crossreferenced with transcriptomes from plant (Arabidopsis) regeneration, one common gene remains: the transmembrane ring protein component of the proton-transporting V-ATPase. This fascinating structure is related to both gap junctions (a.k.a., electrical synapses) and ion pumps that polarize cells, and has already been functionally implicated in embryonic left–right patterning in chick, zebrafish, and frog, zebrafish eye morphogenesis, frog tail regeneration, wound healing in Drosophila, and stem cell regulation in the mouse brain. In some of these cases (e.g., chick and frog), the V-ATPase pump is known to function on the cell surface, generating a significant hyperpolarization of cells by the efflux of positive charges.
@@ -56,7 +56,7 @@ At present, this is simply a series of block texts copied from various papers an
 
 Cell Membranes are like a GRN's Markov blanket. 
 
->In order toreach the target form, each cell has to move to an appropriatelocation based upon chemotactic concentration gradients. However, these gradients depend upon cell migration. Inother words, self-assembly requires each cell to ‘know itsplace’ so that the population can establish a chemotacticframe of reference that enables each cell to ‘know its place’. This is the problem solved through minimizing free energy,where free energy is minimized when, and only when,every cell has associated itself with a unique target location.Note that, after differentiation, every cell has to infer aunique identity without access to the beliefs of other cells.This hard problem is finessed by the embodied nature ofactive inference: because a cell can only be in one place at atime there is a unique free-energy minimum, where every cell knows its respective place
+>In order toreach the target form, each cell has to move to an appropriatelocation based upon chemotactic concentration gradients. However, these gradients depend upon cell migration. Inother words, self-assembly requires each cell to 'know itsplace' so that the population can establish a chemotacticframe of reference that enables each cell to 'know its place'. This is the problem solved through minimizing free energy,where free energy is minimized when, and only when,every cell has associated itself with a unique target location.Note that, after differentiation, every cell has to infer aunique identity without access to the beliefs of other cells.This hard problem is finessed by the embodied nature ofactive inference: because a cell can only be in one place at atime there is a unique free-energy minimum, where every cell knows its respective place
 
 Cells experience a linear increase in sensitivity to extracellular signals over developmental time.
 >When the sensitivity to exogenous gradients is suppressed, the cells think they have not migrated sufficiently to differentiate and remain confused about theiridentity. Conversely, if we increase the sensitivity to the vertical gradient, the cells migrate over smaller vertical distances resulting in a vertical compression of the final form. Doubling the sensitivity to intracellular signals causes a failure of migration and differentiation and generalized atrophy.
@@ -91,7 +91,7 @@ Cells experience a linear increase in sensitivity to extracellular signals over 
 
 ### _Bioelectric controls of cell proliferation: Ion channels, membrane voltage and the cell cycle_[^6]
 
->These ideas were formally tested in a series of groundbreaking experiments by Clarence D. Cone, Jr. throughout the late 1960’s. He first observed that Vmem varied through the cell cycle and postulated that the variations were directly related to progression through G1 /S and G2 /M transitions in proliferating cells. In a follow up study to explicitly test causation, he altered the intracellular ionic concentration of cells and was able to induce a reversible mitotic block by mimicking Vmem to levels observed in neurons.8 Even more impressively, it was shown that sustained depolarization was able to induce DNA synthesis and mitosis in mature neurons.
+>These ideas were formally tested in a series of groundbreaking experiments by Clarence D. Cone, Jr. throughout the late 1960's. He first observed that Vmem varied through the cell cycle and postulated that the variations were directly related to progression through G1 /S and G2 /M transitions in proliferating cells. In a follow up study to explicitly test causation, he altered the intracellular ionic concentration of cells and was able to induce a reversible mitotic block by mimicking Vmem to levels observed in neurons.8 Even more impressively, it was shown that sustained depolarization was able to induce DNA synthesis and mitosis in mature neurons.
 
 >Membrane potential has been examined as a key regulator of proliferation in a number of cell types, suggesting that modulation of Vmem is required for both G1 /S phase and G2 /M phase transitions. Depolarization of membrane through changes in extracellular ion concentration inhibits G1 /S progression of lymphocytes, astrocytes, fibroblasts and Schwann cells suggesting hyper-polarization is a required step for S phase initation.
 
@@ -124,7 +124,7 @@ Cells experience a linear increase in sensitivity to extracellular signals over 
 ### _Electromagnetic fields in medicine – The state of art_[^11]
 >The biological activity of magnetic fields is a consequence of the effect those fields have on ion currents, as well as upon particles having a specific magnetic moment. This interaction causes certain orientations of physical stimuli, which influence the properties of cell membranes, electrolyte systems, sensitivity threshold for free nerve endings or cell capable of contracting.
 
->Magnetic fields, influencing the ions moving within the body by means of Lorentz forces, applied perpendicularly to the direction of ion streams and the direction of magnetic field forces’ lines, cause deflexion of the ion stream, as well as the direction of lines of magnetic field forces, thus causing the phenomenon of deflexion of paths along which negative and positive ions move, in opposite directions. Moreover, ions gather in the vicinity of biological barriers, e.g. cell membranes in magnetic field, as a result of which ion polarization occurs (in accordance with the phenomenon of ion cyclotrone resonance – ICR) and change in the ion diffusion rate between the inside area of the cell and the intercellular space. A consequence of the above-mentioned phenomena is a change in intercellular concentration of ion, sodium, and potassium ions, among others, which has significant influence upon the intensity of numerous metabolic processes and the speed of nerve conductivity.
+>Magnetic fields, influencing the ions moving within the body by means of Lorentz forces, applied perpendicularly to the direction of ion streams and the direction of magnetic field forces' lines, cause deflexion of the ion stream, as well as the direction of lines of magnetic field forces, thus causing the phenomenon of deflexion of paths along which negative and positive ions move, in opposite directions. Moreover, ions gather in the vicinity of biological barriers, e.g. cell membranes in magnetic field, as a result of which ion polarization occurs (in accordance with the phenomenon of ion cyclotrone resonance – ICR) and change in the ion diffusion rate between the inside area of the cell and the intercellular space. A consequence of the above-mentioned phenomena is a change in intercellular concentration of ion, sodium, and potassium ions, among others, which has significant influence upon the intensity of numerous metabolic processes and the speed of nerve conductivity.
 
 >Other published studies indicate that the application of low-frequency magnetic fields is conducive to the regeneration of tissues damaged in accidents, thermal traumas, or due to other factors that impair the continuity of the tissues.
 
@@ -186,7 +186,7 @@ Cells experience a linear increase in sensitivity to extracellular signals over 
 ### Citation
 In academic work, please cite this essay as:
 
-_Anderson, Benjamin, “Bioelectricity as a Causal Factor in Aging”, TheBenjam.in (2022-07-23), available at https://www.thebenjam.in/research/._
+_Anderson, Benjamin, "Bioelectricity as a Causal Factor in Aging", TheBenjam.in (2022-07-23), available at https://www.thebenjam.in/research/._
 
 [^1]: Javier Cervera, Alexis Pietak, Michael Levin, Salvador Mafe,
 Bioelectrical coupling in multicellular domains regulated by gap junctions: A conceptual approach, Bioelectrochemistry, Volume 123, 2018, Pages 45-61, ISSN 1567-5394, https://doi.org/10.1016/j.bioelechem.2018.04.013
